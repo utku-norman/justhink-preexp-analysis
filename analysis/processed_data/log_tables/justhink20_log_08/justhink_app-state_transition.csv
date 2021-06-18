@@ -1,0 +1,2568 @@
+Time,header.seq,header.frame_id,state.edges,state.suggested.u,state.suggested.v,state.terminal,state.submit_suggested,action.agent_name,action.type,action.edge.u,action.edge.v,next_state.edges,next_state.suggested.u,next_state.suggested.v,next_state.terminal,next_state.submit_suggested,action_no,step_no,turn_agent
+0.0,1,indiv-illustrate,[],-1,-1,False,False,human,1,1,9,"[u: 1
+v: 9]",-1,-1,False,False,0,1,human
+39.45184135437012,2,indiv-illustrate,"[u: 1
+v: 9]",-1,-1,False,False,human,8,-1,-1,[],-1,-1,False,False,1,2,human
+68.90627002716064,3,indiv-illustrate,[],-1,-1,False,False,human,1,1,9,"[u: 1
+v: 9]",-1,-1,False,False,2,3,human
+71.24386096000671,4,indiv-illustrate,"[u: 1
+v: 9]",-1,-1,False,False,human,3,-1,-1,"[u: 1
+v: 9]",-1,-1,True,False,3,4,human
+114.03278374671936,5,pretest-1,[],-1,-1,False,False,human,1,6,4,"[u: 6
+v: 4]",-1,-1,False,False,0,0,human
+120.20242500305176,6,pretest-1,"[u: 6
+v: 4]",-1,-1,False,False,human,1,4,5,"[u: 4
+v: 5, u: 6
+v: 4]",-1,-1,False,False,1,0,human
+130.7257158756256,7,pretest-1,"[u: 4
+v: 5, u: 6
+v: 4]",-1,-1,False,False,human,1,5,6,"[u: 4
+v: 5, u: 5
+v: 6, u: 6
+v: 4]",-1,-1,False,False,2,0,human
+137.05790543556213,8,pretest-1,"[u: 4
+v: 5, u: 5
+v: 6, u: 6
+v: 4]",-1,-1,False,False,human,1,6,7,"[u: 6
+v: 7, u: 4
+v: 5, u: 6
+v: 4, u: 5
+v: 6]",-1,-1,False,False,3,0,human
+142.19240951538086,9,pretest-1,"[u: 6
+v: 7, u: 4
+v: 5, u: 6
+v: 4, u: 5
+v: 6]",-1,-1,False,False,human,1,7,5,"[u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 6, u: 7
+v: 5, u: 6
+v: 4]",-1,-1,False,False,4,0,human
+146.1654441356659,10,pretest-1,"[u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 6, u: 7
+v: 5, u: 6
+v: 4]",-1,-1,False,False,human,1,5,3,"[u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 6, u: 5
+v: 3, u: 7
+v: 5, u: 6
+v: 4]",-1,-1,False,False,5,0,human
+152.58792519569397,11,pretest-1,"[u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 6, u: 5
+v: 3, u: 7
+v: 5, u: 6
+v: 4]",-1,-1,False,False,human,1,4,1,"[u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 6, u: 5
+v: 3, u: 7
+v: 5, u: 4
+v: 1, u: 6
+v: 4]",-1,-1,False,False,6,0,human
+156.16222524642944,12,pretest-1,"[u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 6, u: 5
+v: 3, u: 7
+v: 5, u: 4
+v: 1, u: 6
+v: 4]",-1,-1,False,False,human,1,1,3,"[u: 6
+v: 7, u: 4
+v: 5, u: 1
+v: 3, u: 5
+v: 6, u: 5
+v: 3, u: 7
+v: 5, u: 4
+v: 1, u: 6
+v: 4]",-1,-1,False,False,7,0,human
+159.5094313621521,13,pretest-1,"[u: 6
+v: 7, u: 4
+v: 5, u: 1
+v: 3, u: 5
+v: 6, u: 5
+v: 3, u: 7
+v: 5, u: 4
+v: 1, u: 6
+v: 4]",-1,-1,False,False,human,1,3,0,"[u: 4
+v: 1, u: 6
+v: 4, u: 3
+v: 0, u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 6, u: 5
+v: 3, u: 7
+v: 5, u: 1
+v: 3]",-1,-1,False,False,8,0,human
+164.5555419921875,14,pretest-1,"[u: 4
+v: 1, u: 6
+v: 4, u: 3
+v: 0, u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 6, u: 5
+v: 3, u: 7
+v: 5, u: 1
+v: 3]",-1,-1,False,False,human,1,0,7,"[u: 1
+v: 3, u: 0
+v: 7, u: 6
+v: 4, u: 3
+v: 0, u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 6, u: 5
+v: 3, u: 7
+v: 5, u: 4
+v: 1]",-1,-1,False,False,9,0,human
+168.18998622894287,15,pretest-1,"[u: 1
+v: 3, u: 0
+v: 7, u: 6
+v: 4, u: 3
+v: 0, u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 6, u: 5
+v: 3, u: 7
+v: 5, u: 4
+v: 1]",-1,-1,False,False,human,1,7,3,"[u: 0
+v: 7, u: 4
+v: 1, u: 6
+v: 4, u: 3
+v: 0, u: 7
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 6, u: 5
+v: 3, u: 7
+v: 5, u: 1
+v: 3]",-1,-1,False,False,10,0,human
+171.15635704994202,16,pretest-1,"[u: 0
+v: 7, u: 4
+v: 1, u: 6
+v: 4, u: 3
+v: 0, u: 7
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 6, u: 5
+v: 3, u: 7
+v: 5, u: 1
+v: 3]",-1,-1,False,False,human,1,5,1,"[u: 0
+v: 7, u: 1
+v: 3, u: 6
+v: 4, u: 5
+v: 1, u: 7
+v: 3, u: 3
+v: 0, u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 6, u: 5
+v: 3, u: 7
+v: 5, u: 4
+v: 1]",-1,-1,False,False,11,0,human
+173.3751618862152,17,pretest-1,"[u: 0
+v: 7, u: 1
+v: 3, u: 6
+v: 4, u: 5
+v: 1, u: 7
+v: 3, u: 3
+v: 0, u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 6, u: 5
+v: 3, u: 7
+v: 5, u: 4
+v: 1]",-1,-1,False,False,human,4,-1,-1,"[u: 0
+v: 7, u: 4
+v: 1, u: 5
+v: 1, u: 6
+v: 4, u: 7
+v: 3, u: 3
+v: 0, u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 6, u: 5
+v: 3, u: 7
+v: 5, u: 1
+v: 3]",-1,-1,False,True,12,0,human
+177.77318859100342,18,pretest-1,"[u: 0
+v: 7, u: 4
+v: 1, u: 5
+v: 1, u: 6
+v: 4, u: 7
+v: 3, u: 3
+v: 0, u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 6, u: 5
+v: 3, u: 7
+v: 5, u: 1
+v: 3]",-1,-1,False,True,human,4,-1,-1,"[u: 0
+v: 7, u: 1
+v: 3, u: 6
+v: 4, u: 5
+v: 1, u: 7
+v: 3, u: 3
+v: 0, u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 6, u: 5
+v: 3, u: 7
+v: 5, u: 4
+v: 1]",-1,-1,True,True,13,0,human
+206.37467622756958,19,pretest-2,[],-1,-1,False,False,human,1,4,6,"[u: 4
+v: 6]",-1,-1,False,False,0,0,human
+212.52851009368896,20,pretest-2,"[u: 4
+v: 6]",-1,-1,False,False,human,1,6,7,"[u: 6
+v: 7, u: 4
+v: 6]",-1,-1,False,False,1,0,human
+217.46857070922852,21,pretest-2,"[u: 6
+v: 7, u: 4
+v: 6]",-1,-1,False,False,human,1,7,5,"[u: 6
+v: 7, u: 7
+v: 5, u: 4
+v: 6]",-1,-1,False,False,2,0,human
+231.56005716323853,22,pretest-2,"[u: 6
+v: 7, u: 7
+v: 5, u: 4
+v: 6]",-1,-1,False,False,human,1,7,0,"[u: 6
+v: 7, u: 7
+v: 5, u: 4
+v: 6, u: 7
+v: 0]",-1,-1,False,False,3,0,human
+232.29005479812622,23,pretest-2,"[u: 6
+v: 7, u: 7
+v: 5, u: 4
+v: 6, u: 7
+v: 0]",-1,-1,False,False,human,8,-1,-1,[],-1,-1,False,False,4,0,human
+238.79690790176392,24,pretest-2,[],-1,-1,False,False,human,1,4,5,"[u: 4
+v: 5]",-1,-1,False,False,5,0,human
+246.89078545570374,25,pretest-2,"[u: 4
+v: 5]",-1,-1,False,False,human,1,5,3,"[u: 5
+v: 3, u: 4
+v: 5]",-1,-1,False,False,6,0,human
+249.93856930732727,26,pretest-2,"[u: 5
+v: 3, u: 4
+v: 5]",-1,-1,False,False,human,1,3,1,"[u: 5
+v: 3, u: 4
+v: 5, u: 3
+v: 1]",-1,-1,False,False,7,0,human
+253.51573777198792,27,pretest-2,"[u: 5
+v: 3, u: 4
+v: 5, u: 3
+v: 1]",-1,-1,False,False,human,1,5,7,"[u: 5
+v: 3, u: 4
+v: 5, u: 3
+v: 1, u: 5
+v: 7]",-1,-1,False,False,8,0,human
+258.1744456291199,28,pretest-2,"[u: 5
+v: 3, u: 4
+v: 5, u: 3
+v: 1, u: 5
+v: 7]",-1,-1,False,False,human,1,3,0,"[u: 4
+v: 5, u: 5
+v: 3, u: 3
+v: 1, u: 5
+v: 7, u: 3
+v: 0]",-1,-1,False,False,9,0,human
+264.63510632514954,29,pretest-2,"[u: 4
+v: 5, u: 5
+v: 3, u: 3
+v: 1, u: 5
+v: 7, u: 3
+v: 0]",-1,-1,False,False,human,1,7,6,"[u: 4
+v: 5, u: 7
+v: 6, u: 3
+v: 1, u: 5
+v: 3, u: 5
+v: 7, u: 3
+v: 0]",-1,-1,False,False,10,0,human
+266.03806614875793,30,pretest-2,"[u: 4
+v: 5, u: 7
+v: 6, u: 3
+v: 1, u: 5
+v: 3, u: 5
+v: 7, u: 3
+v: 0]",-1,-1,False,False,human,4,-1,-1,"[u: 3
+v: 1, u: 5
+v: 7, u: 3
+v: 0, u: 4
+v: 5, u: 7
+v: 6, u: 5
+v: 3]",-1,-1,False,True,11,0,human
+268.2671608924866,31,pretest-2,"[u: 3
+v: 1, u: 5
+v: 7, u: 3
+v: 0, u: 4
+v: 5, u: 7
+v: 6, u: 5
+v: 3]",-1,-1,False,True,human,4,-1,-1,"[u: 3
+v: 1, u: 5
+v: 7, u: 3
+v: 0, u: 4
+v: 5, u: 7
+v: 6, u: 5
+v: 3]",-1,-1,True,True,12,0,human
+291.93946599960327,32,pretest-3,[],-1,-1,False,False,human,1,7,6,"[u: 7
+v: 6]",-1,-1,False,False,0,0,human
+297.7202658653259,33,pretest-3,"[u: 7
+v: 6]",-1,-1,False,False,human,1,6,4,"[u: 7
+v: 6, u: 6
+v: 4]",-1,-1,False,False,1,0,human
+306.14312505722046,34,pretest-3,"[u: 7
+v: 6, u: 6
+v: 4]",-1,-1,False,False,human,1,5,4,"[u: 5
+v: 4, u: 7
+v: 6, u: 6
+v: 4]",-1,-1,False,False,2,0,human
+313.76880741119385,35,pretest-3,"[u: 5
+v: 4, u: 7
+v: 6, u: 6
+v: 4]",-1,-1,False,False,human,1,4,1,"[u: 5
+v: 4, u: 7
+v: 6, u: 4
+v: 1, u: 6
+v: 4]",-1,-1,False,False,3,0,human
+317.2167737483978,36,pretest-3,"[u: 5
+v: 4, u: 7
+v: 6, u: 4
+v: 1, u: 6
+v: 4]",-1,-1,False,False,human,1,1,3,"[u: 1
+v: 3, u: 7
+v: 6, u: 5
+v: 4, u: 4
+v: 1, u: 6
+v: 4]",-1,-1,False,False,4,0,human
+319.53053641319275,37,pretest-3,"[u: 1
+v: 3, u: 7
+v: 6, u: 5
+v: 4, u: 4
+v: 1, u: 6
+v: 4]",-1,-1,False,False,human,1,3,0,"[u: 1
+v: 3, u: 7
+v: 6, u: 5
+v: 4, u: 4
+v: 1, u: 6
+v: 4, u: 3
+v: 0]",-1,-1,False,False,5,0,human
+322.2830488681793,38,pretest-3,"[u: 1
+v: 3, u: 7
+v: 6, u: 5
+v: 4, u: 4
+v: 1, u: 6
+v: 4, u: 3
+v: 0]",-1,-1,False,False,human,1,0,7,"[u: 1
+v: 3, u: 0
+v: 7, u: 7
+v: 6, u: 5
+v: 4, u: 4
+v: 1, u: 6
+v: 4, u: 3
+v: 0]",-1,-1,False,False,6,0,human
+328.7307517528534,39,pretest-3,"[u: 1
+v: 3, u: 0
+v: 7, u: 7
+v: 6, u: 5
+v: 4, u: 4
+v: 1, u: 6
+v: 4, u: 3
+v: 0]",-1,-1,False,False,human,4,-1,-1,"[u: 0
+v: 7, u: 4
+v: 1, u: 5
+v: 4, u: 6
+v: 4, u: 3
+v: 0, u: 7
+v: 6, u: 1
+v: 3]",-1,-1,False,True,7,0,human
+330.6059968471527,40,pretest-3,"[u: 0
+v: 7, u: 4
+v: 1, u: 5
+v: 4, u: 6
+v: 4, u: 3
+v: 0, u: 7
+v: 6, u: 1
+v: 3]",-1,-1,False,True,human,4,-1,-1,"[u: 0
+v: 7, u: 1
+v: 3, u: 5
+v: 4, u: 6
+v: 4, u: 3
+v: 0, u: 7
+v: 6, u: 4
+v: 1]",-1,-1,True,True,8,0,human
+360.0497453212738,41,pretest-4,[],-1,-1,False,False,human,1,7,6,"[u: 7
+v: 6]",-1,-1,False,False,0,0,human
+363.50386142730713,42,pretest-4,"[u: 7
+v: 6]",-1,-1,False,False,human,1,6,4,"[u: 7
+v: 6, u: 6
+v: 4]",-1,-1,False,False,1,0,human
+366.31378078460693,43,pretest-4,"[u: 7
+v: 6, u: 6
+v: 4]",-1,-1,False,False,human,1,4,5,"[u: 4
+v: 5, u: 7
+v: 6, u: 6
+v: 4]",-1,-1,False,False,2,0,human
+371.9467647075653,44,pretest-4,"[u: 4
+v: 5, u: 7
+v: 6, u: 6
+v: 4]",-1,-1,False,False,human,1,4,1,"[u: 4
+v: 5, u: 7
+v: 6, u: 4
+v: 1, u: 6
+v: 4]",-1,-1,False,False,3,0,human
+374.5999617576599,45,pretest-4,"[u: 4
+v: 5, u: 7
+v: 6, u: 4
+v: 1, u: 6
+v: 4]",-1,-1,False,False,human,1,1,3,"[u: 1
+v: 3, u: 4
+v: 5, u: 7
+v: 6, u: 4
+v: 1, u: 6
+v: 4]",-1,-1,False,False,4,0,human
+376.52486658096313,46,pretest-4,"[u: 1
+v: 3, u: 4
+v: 5, u: 7
+v: 6, u: 4
+v: 1, u: 6
+v: 4]",-1,-1,False,False,human,1,3,0,"[u: 1
+v: 3, u: 4
+v: 5, u: 7
+v: 6, u: 4
+v: 1, u: 6
+v: 4, u: 3
+v: 0]",-1,-1,False,False,5,0,human
+383.60038709640503,47,pretest-4,"[u: 1
+v: 3, u: 4
+v: 5, u: 7
+v: 6, u: 4
+v: 1, u: 6
+v: 4, u: 3
+v: 0]",-1,-1,False,False,human,1,7,0,"[u: 1
+v: 3, u: 4
+v: 5, u: 7
+v: 6, u: 7
+v: 0, u: 4
+v: 1, u: 6
+v: 4, u: 3
+v: 0]",-1,-1,False,False,6,0,human
+398.5610022544861,48,pretest-4,"[u: 1
+v: 3, u: 4
+v: 5, u: 7
+v: 6, u: 7
+v: 0, u: 4
+v: 1, u: 6
+v: 4, u: 3
+v: 0]",-1,-1,False,False,human,8,-1,-1,[],-1,-1,False,False,7,0,human
+404.39004850387573,49,pretest-4,[],-1,-1,False,False,human,1,6,4,"[u: 6
+v: 4]",-1,-1,False,False,8,0,human
+409.3513660430908,50,pretest-4,"[u: 6
+v: 4]",-1,-1,False,False,human,1,4,5,"[u: 4
+v: 5, u: 6
+v: 4]",-1,-1,False,False,9,0,human
+417.29813838005066,51,pretest-4,"[u: 4
+v: 5, u: 6
+v: 4]",-1,-1,False,False,human,1,1,3,"[u: 4
+v: 5, u: 1
+v: 3, u: 6
+v: 4]",-1,-1,False,False,10,0,human
+420.6930434703827,52,pretest-4,"[u: 4
+v: 5, u: 1
+v: 3, u: 6
+v: 4]",-1,-1,False,False,human,1,3,0,"[u: 4
+v: 5, u: 1
+v: 3, u: 6
+v: 4, u: 3
+v: 0]",-1,-1,False,False,11,0,human
+429.61250376701355,53,pretest-4,"[u: 4
+v: 5, u: 1
+v: 3, u: 6
+v: 4, u: 3
+v: 0]",-1,-1,False,False,human,1,7,0,"[u: 4
+v: 5, u: 7
+v: 0, u: 1
+v: 3, u: 6
+v: 4, u: 3
+v: 0]",-1,-1,False,False,12,0,human
+441.111789226532,54,pretest-4,"[u: 4
+v: 5, u: 7
+v: 0, u: 1
+v: 3, u: 6
+v: 4, u: 3
+v: 0]",-1,-1,False,False,human,1,4,1,"[u: 4
+v: 5, u: 4
+v: 1, u: 7
+v: 0, u: 1
+v: 3, u: 6
+v: 4, u: 3
+v: 0]",-1,-1,False,False,13,0,human
+442.7602620124817,55,pretest-4,"[u: 4
+v: 5, u: 4
+v: 1, u: 7
+v: 0, u: 1
+v: 3, u: 6
+v: 4, u: 3
+v: 0]",-1,-1,False,False,human,4,-1,-1,"[u: 4
+v: 1, u: 7
+v: 0, u: 6
+v: 4, u: 3
+v: 0, u: 4
+v: 5, u: 1
+v: 3]",-1,-1,False,True,14,0,human
+445.9471049308777,56,pretest-4,"[u: 4
+v: 1, u: 7
+v: 0, u: 6
+v: 4, u: 3
+v: 0, u: 4
+v: 5, u: 1
+v: 3]",-1,-1,False,True,human,4,-1,-1,"[u: 1
+v: 3, u: 7
+v: 0, u: 6
+v: 4, u: 3
+v: 0, u: 4
+v: 5, u: 4
+v: 1]",-1,-1,True,True,15,0,human
+467.86993765830994,57,pretest-5,[],-1,-1,False,False,human,1,0,3,"[u: 0
+v: 3]",-1,-1,False,False,0,0,human
+471.2418406009674,58,pretest-5,"[u: 0
+v: 3]",-1,-1,False,False,human,1,3,1,"[u: 3
+v: 1, u: 0
+v: 3]",-1,-1,False,False,1,0,human
+477.25416231155396,59,pretest-5,"[u: 3
+v: 1, u: 0
+v: 3]",-1,-1,False,False,human,1,7,5,"[u: 3
+v: 1, u: 7
+v: 5, u: 0
+v: 3]",-1,-1,False,False,2,0,human
+479.941935300827,60,pretest-5,"[u: 3
+v: 1, u: 7
+v: 5, u: 0
+v: 3]",-1,-1,False,False,human,1,7,6,"[u: 3
+v: 1, u: 7
+v: 5, u: 0
+v: 3, u: 7
+v: 6]",-1,-1,False,False,3,0,human
+481.8688187599182,61,pretest-5,"[u: 3
+v: 1, u: 7
+v: 5, u: 0
+v: 3, u: 7
+v: 6]",-1,-1,False,False,human,1,6,4,"[u: 7
+v: 6, u: 3
+v: 1, u: 7
+v: 5, u: 0
+v: 3, u: 6
+v: 4]",-1,-1,False,False,4,0,human
+485.33628010749817,62,pretest-5,"[u: 7
+v: 6, u: 3
+v: 1, u: 7
+v: 5, u: 0
+v: 3, u: 6
+v: 4]",-1,-1,False,False,human,1,1,4,"[u: 7
+v: 6, u: 3
+v: 1, u: 7
+v: 5, u: 0
+v: 3, u: 6
+v: 4, u: 1
+v: 4]",-1,-1,False,False,5,0,human
+486.5009572505951,63,pretest-5,"[u: 7
+v: 6, u: 3
+v: 1, u: 7
+v: 5, u: 0
+v: 3, u: 6
+v: 4, u: 1
+v: 4]",-1,-1,False,False,human,4,-1,-1,"[u: 3
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 1
+v: 4, u: 7
+v: 6, u: 7
+v: 5]",-1,-1,False,True,6,0,human
+494.11896085739136,64,pretest-5,"[u: 3
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 1
+v: 4, u: 7
+v: 6, u: 7
+v: 5]",-1,-1,False,True,human,5,-1,-1,"[u: 3
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 1
+v: 4, u: 7
+v: 6, u: 7
+v: 5]",-1,-1,False,False,7,0,human
+505.4695601463318,65,pretest-5,"[u: 3
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 1
+v: 4, u: 7
+v: 6, u: 7
+v: 5]",-1,-1,False,False,human,4,-1,-1,"[u: 3
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 1
+v: 4, u: 7
+v: 6, u: 7
+v: 5]",-1,-1,False,True,8,0,human
+507.28179907798767,66,pretest-5,"[u: 3
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 1
+v: 4, u: 7
+v: 6, u: 7
+v: 5]",-1,-1,False,True,human,4,-1,-1,"[u: 3
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 1
+v: 4, u: 7
+v: 6, u: 7
+v: 5]",-1,-1,True,True,9,0,human
+566.1689960956573,67,collab-activity,[],-1,-1,False,False,robot,0,0,3,[],0,3,False,False,0,1,human
+574.8914813995361,68,collab-activity,[],0,3,False,False,human,6,-1,-1,"[u: 0
+v: 3]",-1,-1,False,False,1,1,human
+597.6474380493164,69,collab-activity,"[u: 0
+v: 3]",-1,-1,False,False,human,0,5,4,"[u: 0
+v: 3]",5,4,False,False,2,1,robot
+613.109931230545,70,collab-activity,"[u: 0
+v: 3]",5,4,False,False,robot,0,5,4,"[u: 5
+v: 4, u: 0
+v: 3]",-1,-1,False,False,3,1,robot
+622.3451561927795,71,collab-activity,"[u: 5
+v: 4, u: 0
+v: 3]",-1,-1,False,False,robot,0,4,6,"[u: 5
+v: 4, u: 0
+v: 3]",4,6,False,False,4,1,human
+635.3692169189453,72,collab-activity,"[u: 5
+v: 4, u: 0
+v: 3]",4,6,False,False,human,6,-1,-1,"[u: 4
+v: 6, u: 5
+v: 4, u: 0
+v: 3]",-1,-1,False,False,5,1,human
+651.8504853248596,73,collab-activity,"[u: 4
+v: 6, u: 5
+v: 4, u: 0
+v: 3]",-1,-1,False,False,human,0,7,5,"[u: 5
+v: 4, u: 4
+v: 6, u: 0
+v: 3]",7,5,False,False,6,1,robot
+671.8682508468628,74,collab-activity,"[u: 5
+v: 4, u: 4
+v: 6, u: 0
+v: 3]",7,5,False,False,robot,0,7,6,"[u: 5
+v: 4, u: 4
+v: 6, u: 0
+v: 3]",7,6,False,False,7,1,human
+694.5191130638123,75,collab-activity,"[u: 5
+v: 4, u: 4
+v: 6, u: 0
+v: 3]",7,6,False,False,human,6,-1,-1,"[u: 5
+v: 4, u: 4
+v: 6, u: 7
+v: 6, u: 0
+v: 3]",-1,-1,False,False,8,1,human
+725.0450983047485,76,collab-activity,"[u: 5
+v: 4, u: 4
+v: 6, u: 7
+v: 6, u: 0
+v: 3]",-1,-1,False,False,human,0,4,9,"[u: 5
+v: 4, u: 4
+v: 6, u: 7
+v: 6, u: 0
+v: 3]",4,9,False,False,9,1,robot
+743.5404026508331,77,collab-activity,"[u: 5
+v: 4, u: 4
+v: 6, u: 7
+v: 6, u: 0
+v: 3]",4,9,False,False,robot,0,4,1,"[u: 5
+v: 4, u: 4
+v: 6, u: 7
+v: 6, u: 0
+v: 3]",4,1,False,False,10,1,human
+747.6375138759613,78,collab-activity,"[u: 5
+v: 4, u: 4
+v: 6, u: 7
+v: 6, u: 0
+v: 3]",4,1,False,False,human,6,-1,-1,"[u: 7
+v: 6, u: 0
+v: 3, u: 5
+v: 4, u: 4
+v: 6, u: 4
+v: 1]",-1,-1,False,False,11,1,human
+761.7450675964355,79,collab-activity,"[u: 7
+v: 6, u: 0
+v: 3, u: 5
+v: 4, u: 4
+v: 6, u: 4
+v: 1]",-1,-1,False,False,human,0,1,2,"[u: 5
+v: 4, u: 4
+v: 6, u: 0
+v: 3, u: 7
+v: 6, u: 4
+v: 1]",1,2,False,False,12,1,robot
+776.4869904518127,80,collab-activity,"[u: 5
+v: 4, u: 4
+v: 6, u: 0
+v: 3, u: 7
+v: 6, u: 4
+v: 1]",1,2,False,False,robot,0,1,2,"[u: 7
+v: 6, u: 1
+v: 2, u: 0
+v: 3, u: 5
+v: 4, u: 4
+v: 6, u: 4
+v: 1]",-1,-1,False,False,13,1,robot
+784.5570678710938,81,collab-activity,"[u: 7
+v: 6, u: 1
+v: 2, u: 0
+v: 3, u: 5
+v: 4, u: 4
+v: 6, u: 4
+v: 1]",-1,-1,False,False,robot,0,2,3,"[u: 1
+v: 2, u: 5
+v: 4, u: 4
+v: 6, u: 0
+v: 3, u: 7
+v: 6, u: 4
+v: 1]",2,3,False,False,14,1,human
+824.7280097007751,82,collab-activity,"[u: 1
+v: 2, u: 5
+v: 4, u: 4
+v: 6, u: 0
+v: 3, u: 7
+v: 6, u: 4
+v: 1]",2,3,False,False,human,6,-1,-1,"[u: 2
+v: 3, u: 1
+v: 2, u: 7
+v: 6, u: 0
+v: 3, u: 5
+v: 4, u: 4
+v: 6, u: 4
+v: 1]",-1,-1,False,False,15,1,human
+858.8301343917847,83,collab-activity,"[u: 2
+v: 3, u: 1
+v: 2, u: 7
+v: 6, u: 0
+v: 3, u: 5
+v: 4, u: 4
+v: 6, u: 4
+v: 1]",-1,-1,False,False,human,0,8,9,"[u: 1
+v: 2, u: 5
+v: 4, u: 0
+v: 3, u: 4
+v: 6, u: 2
+v: 3, u: 7
+v: 6, u: 4
+v: 1]",8,9,False,False,16,1,robot
+872.3637855052948,84,collab-activity,"[u: 1
+v: 2, u: 5
+v: 4, u: 0
+v: 3, u: 4
+v: 6, u: 2
+v: 3, u: 7
+v: 6, u: 4
+v: 1]",8,9,False,False,robot,0,8,9,"[u: 2
+v: 3, u: 1
+v: 2, u: 7
+v: 6, u: 8
+v: 9, u: 0
+v: 3, u: 5
+v: 4, u: 4
+v: 6, u: 4
+v: 1]",-1,-1,False,False,17,1,robot
+881.7596082687378,85,collab-activity,"[u: 2
+v: 3, u: 1
+v: 2, u: 7
+v: 6, u: 8
+v: 9, u: 0
+v: 3, u: 5
+v: 4, u: 4
+v: 6, u: 4
+v: 1]",-1,-1,False,False,robot,0,9,1,"[u: 1
+v: 2, u: 5
+v: 4, u: 0
+v: 3, u: 4
+v: 6, u: 2
+v: 3, u: 8
+v: 9, u: 7
+v: 6, u: 4
+v: 1]",9,1,False,False,18,1,human
+885.9697554111481,86,collab-activity,"[u: 1
+v: 2, u: 5
+v: 4, u: 0
+v: 3, u: 4
+v: 6, u: 2
+v: 3, u: 8
+v: 9, u: 7
+v: 6, u: 4
+v: 1]",9,1,False,False,human,6,-1,-1,"[u: 1
+v: 2, u: 5
+v: 4, u: 4
+v: 6, u: 0
+v: 3, u: 2
+v: 3, u: 8
+v: 9, u: 7
+v: 6, u: 9
+v: 1, u: 4
+v: 1]",-1,-1,False,False,19,1,human
+908.8899214267731,87,collab-activity,"[u: 1
+v: 2, u: 5
+v: 4, u: 4
+v: 6, u: 0
+v: 3, u: 2
+v: 3, u: 8
+v: 9, u: 7
+v: 6, u: 9
+v: 1, u: 4
+v: 1]",-1,-1,False,False,human,0,2,8,"[u: 1
+v: 2, u: 5
+v: 4, u: 4
+v: 6, u: 0
+v: 3, u: 2
+v: 3, u: 8
+v: 9, u: 7
+v: 6, u: 9
+v: 1, u: 4
+v: 1]",2,8,False,False,20,1,robot
+922.1205947399139,88,collab-activity,"[u: 1
+v: 2, u: 5
+v: 4, u: 4
+v: 6, u: 0
+v: 3, u: 2
+v: 3, u: 8
+v: 9, u: 7
+v: 6, u: 9
+v: 1, u: 4
+v: 1]",2,8,False,False,robot,0,2,8,"[u: 1
+v: 2, u: 5
+v: 4, u: 4
+v: 6, u: 0
+v: 3, u: 2
+v: 3, u: 8
+v: 9, u: 7
+v: 6, u: 9
+v: 1, u: 4
+v: 1, u: 2
+v: 8]",-1,-1,False,False,21,1,robot
+924.1973528862,89,collab-activity,"[u: 1
+v: 2, u: 5
+v: 4, u: 4
+v: 6, u: 0
+v: 3, u: 2
+v: 3, u: 8
+v: 9, u: 7
+v: 6, u: 9
+v: 1, u: 4
+v: 1, u: 2
+v: 8]",-1,-1,False,False,robot,3,-1,-1,[],-1,-1,False,False,22,1,robot
+929.1395168304443,90,collab-activity,[],-1,-1,False,False,robot,4,-1,-1,[],-1,-1,False,False,23,1,robot
+943.2433803081512,91,collab-activity,[],-1,-1,False,False,robot,0,8,9,[],8,9,False,False,24,1,human
+946.1778299808502,92,collab-activity,[],8,9,False,False,human,6,-1,-1,"[u: 8
+v: 9]",-1,-1,False,False,25,1,human
+967.8693952560425,93,collab-activity,"[u: 8
+v: 9]",-1,-1,False,False,human,0,9,4,"[u: 8
+v: 9]",9,4,False,False,26,1,robot
+986.2669475078583,94,collab-activity,"[u: 8
+v: 9]",9,4,False,False,robot,0,9,1,"[u: 8
+v: 9]",9,1,False,False,27,1,human
+994.7719118595123,95,collab-activity,"[u: 8
+v: 9]",9,1,False,False,human,6,-1,-1,"[u: 9
+v: 1, u: 8
+v: 9]",-1,-1,False,False,28,1,human
+1024.4537289142609,96,collab-activity,"[u: 9
+v: 1, u: 8
+v: 9]",-1,-1,False,False,human,0,2,1,"[u: 8
+v: 9, u: 9
+v: 1]",2,1,False,False,29,1,robot
+1037.825185060501,97,collab-activity,"[u: 8
+v: 9, u: 9
+v: 1]",2,1,False,False,robot,0,2,1,"[u: 9
+v: 1, u: 8
+v: 9, u: 2
+v: 1]",-1,-1,False,False,30,1,robot
+1046.451857805252,98,collab-activity,"[u: 9
+v: 1, u: 8
+v: 9, u: 2
+v: 1]",-1,-1,False,False,robot,0,1,3,"[u: 8
+v: 9, u: 9
+v: 1, u: 2
+v: 1]",1,3,False,False,31,1,human
+1062.2090592384338,99,collab-activity,"[u: 8
+v: 9, u: 9
+v: 1, u: 2
+v: 1]",1,3,False,False,human,6,-1,-1,"[u: 9
+v: 1, u: 8
+v: 9, u: 1
+v: 3, u: 2
+v: 1]",-1,-1,False,False,32,1,human
+1081.0427160263062,100,collab-activity,"[u: 9
+v: 1, u: 8
+v: 9, u: 1
+v: 3, u: 2
+v: 1]",-1,-1,False,False,human,0,0,3,"[u: 8
+v: 9, u: 9
+v: 1, u: 1
+v: 3, u: 2
+v: 1]",0,3,False,False,33,1,robot
+1095.7210853099823,101,collab-activity,"[u: 8
+v: 9, u: 9
+v: 1, u: 1
+v: 3, u: 2
+v: 1]",0,3,False,False,robot,0,0,3,"[u: 8
+v: 9, u: 2
+v: 1, u: 0
+v: 3, u: 9
+v: 1, u: 1
+v: 3]",-1,-1,False,False,34,1,robot
+1104.5920832157135,102,collab-activity,"[u: 8
+v: 9, u: 2
+v: 1, u: 0
+v: 3, u: 9
+v: 1, u: 1
+v: 3]",-1,-1,False,False,robot,0,3,2,"[u: 2
+v: 1, u: 0
+v: 3, u: 8
+v: 9, u: 9
+v: 1, u: 1
+v: 3]",3,2,False,False,35,1,human
+1115.808408498764,103,collab-activity,"[u: 2
+v: 1, u: 0
+v: 3, u: 8
+v: 9, u: 9
+v: 1, u: 1
+v: 3]",3,2,False,False,human,6,-1,-1,"[u: 8
+v: 9, u: 2
+v: 1, u: 9
+v: 1, u: 3
+v: 2, u: 0
+v: 3, u: 1
+v: 3]",-1,-1,False,False,36,1,human
+1132.0315337181091,104,collab-activity,"[u: 8
+v: 9, u: 2
+v: 1, u: 9
+v: 1, u: 3
+v: 2, u: 0
+v: 3, u: 1
+v: 3]",-1,-1,False,False,human,0,1,4,"[u: 2
+v: 1, u: 0
+v: 3, u: 8
+v: 9, u: 3
+v: 2, u: 9
+v: 1, u: 1
+v: 3]",1,4,False,False,37,1,robot
+1146.7682394981384,105,collab-activity,"[u: 2
+v: 1, u: 0
+v: 3, u: 8
+v: 9, u: 3
+v: 2, u: 9
+v: 1, u: 1
+v: 3]",1,4,False,False,robot,0,1,4,"[u: 8
+v: 9, u: 2
+v: 1, u: 9
+v: 1, u: 3
+v: 2, u: 0
+v: 3, u: 1
+v: 3, u: 1
+v: 4]",-1,-1,False,False,38,1,robot
+1156.0014061927795,106,collab-activity,"[u: 8
+v: 9, u: 2
+v: 1, u: 9
+v: 1, u: 3
+v: 2, u: 0
+v: 3, u: 1
+v: 3, u: 1
+v: 4]",-1,-1,False,False,robot,0,4,5,"[u: 2
+v: 1, u: 0
+v: 3, u: 1
+v: 4, u: 8
+v: 9, u: 3
+v: 2, u: 9
+v: 1, u: 1
+v: 3]",4,5,False,False,39,1,human
+1156.9908156394958,107,collab-activity,"[u: 2
+v: 1, u: 0
+v: 3, u: 1
+v: 4, u: 8
+v: 9, u: 3
+v: 2, u: 9
+v: 1, u: 1
+v: 3]",4,5,False,False,human,6,-1,-1,"[u: 4
+v: 5, u: 8
+v: 9, u: 2
+v: 1, u: 9
+v: 1, u: 3
+v: 2, u: 0
+v: 3, u: 1
+v: 3, u: 1
+v: 4]",-1,-1,False,False,40,1,human
+1172.507422208786,108,collab-activity,"[u: 4
+v: 5, u: 8
+v: 9, u: 2
+v: 1, u: 9
+v: 1, u: 3
+v: 2, u: 0
+v: 3, u: 1
+v: 3, u: 1
+v: 4]",-1,-1,False,False,human,0,5,7,"[u: 2
+v: 1, u: 0
+v: 3, u: 1
+v: 4, u: 4
+v: 5, u: 8
+v: 9, u: 3
+v: 2, u: 9
+v: 1, u: 1
+v: 3]",5,7,False,False,41,1,robot
+1187.9844117164612,109,collab-activity,"[u: 2
+v: 1, u: 0
+v: 3, u: 1
+v: 4, u: 4
+v: 5, u: 8
+v: 9, u: 3
+v: 2, u: 9
+v: 1, u: 1
+v: 3]",5,7,False,False,robot,0,5,7,"[u: 2
+v: 1, u: 0
+v: 3, u: 1
+v: 4, u: 5
+v: 7, u: 4
+v: 5, u: 8
+v: 9, u: 3
+v: 2, u: 9
+v: 1, u: 1
+v: 3]",-1,-1,False,False,42,1,robot
+1196.1387712955475,110,collab-activity,"[u: 2
+v: 1, u: 0
+v: 3, u: 1
+v: 4, u: 5
+v: 7, u: 4
+v: 5, u: 8
+v: 9, u: 3
+v: 2, u: 9
+v: 1, u: 1
+v: 3]",-1,-1,False,False,robot,0,7,6,"[u: 2
+v: 1, u: 0
+v: 3, u: 5
+v: 7, u: 1
+v: 4, u: 4
+v: 5, u: 8
+v: 9, u: 3
+v: 2, u: 9
+v: 1, u: 1
+v: 3]",7,6,False,False,43,1,human
+1200.713840007782,111,collab-activity,"[u: 2
+v: 1, u: 0
+v: 3, u: 5
+v: 7, u: 1
+v: 4, u: 4
+v: 5, u: 8
+v: 9, u: 3
+v: 2, u: 9
+v: 1, u: 1
+v: 3]",7,6,False,False,human,6,-1,-1,"[u: 2
+v: 1, u: 0
+v: 3, u: 1
+v: 4, u: 5
+v: 7, u: 4
+v: 5, u: 8
+v: 9, u: 7
+v: 6, u: 3
+v: 2, u: 9
+v: 1, u: 1
+v: 3]",-1,-1,False,False,44,1,human
+1214.2311069965363,112,collab-activity,"[u: 2
+v: 1, u: 0
+v: 3, u: 1
+v: 4, u: 5
+v: 7, u: 4
+v: 5, u: 8
+v: 9, u: 7
+v: 6, u: 3
+v: 2, u: 9
+v: 1, u: 1
+v: 3]",-1,-1,False,False,human,3,-1,-1,[],-1,-1,False,False,45,1,human
+1235.0984380245209,113,collab-activity,[],-1,-1,False,False,human,0,6,4,[],6,4,False,False,46,1,robot
+1250.0079147815704,114,collab-activity,[],6,4,False,False,robot,0,6,4,"[u: 6
+v: 4]",-1,-1,False,False,47,1,robot
+1258.2466223239899,115,collab-activity,"[u: 6
+v: 4]",-1,-1,False,False,robot,0,4,5,"[u: 6
+v: 4]",4,5,False,False,48,1,human
+1260.6573812961578,116,collab-activity,"[u: 6
+v: 4]",4,5,False,False,human,6,-1,-1,"[u: 4
+v: 5, u: 6
+v: 4]",-1,-1,False,False,49,1,human
+1285.5452437400818,117,collab-activity,"[u: 4
+v: 5, u: 6
+v: 4]",-1,-1,False,False,human,0,7,6,"[u: 4
+v: 5, u: 6
+v: 4]",7,6,False,False,50,1,robot
+1300.7781019210815,118,collab-activity,"[u: 4
+v: 5, u: 6
+v: 4]",7,6,False,False,robot,0,7,6,"[u: 4
+v: 5, u: 7
+v: 6, u: 6
+v: 4]",-1,-1,False,False,51,1,robot
+1309.1909329891205,119,collab-activity,"[u: 4
+v: 5, u: 7
+v: 6, u: 6
+v: 4]",-1,-1,False,False,robot,0,6,5,"[u: 4
+v: 5, u: 7
+v: 6, u: 6
+v: 4]",6,5,False,False,52,1,human
+1314.539983510971,120,collab-activity,"[u: 4
+v: 5, u: 7
+v: 6, u: 6
+v: 4]",6,5,False,False,human,6,-1,-1,"[u: 4
+v: 5, u: 7
+v: 6, u: 6
+v: 4, u: 6
+v: 5]",-1,-1,False,False,53,1,human
+1335.9785676002502,121,collab-activity,"[u: 4
+v: 5, u: 7
+v: 6, u: 6
+v: 4, u: 6
+v: 5]",-1,-1,False,False,human,0,4,1,"[u: 4
+v: 5, u: 7
+v: 6, u: 6
+v: 4, u: 6
+v: 5]",4,1,False,False,54,1,robot
+1349.733552455902,122,collab-activity,"[u: 4
+v: 5, u: 7
+v: 6, u: 6
+v: 4, u: 6
+v: 5]",4,1,False,False,robot,0,4,1,"[u: 4
+v: 5, u: 7
+v: 6, u: 6
+v: 5, u: 4
+v: 1, u: 6
+v: 4]",-1,-1,False,False,55,1,robot
+1358.7669994831085,123,collab-activity,"[u: 4
+v: 5, u: 7
+v: 6, u: 6
+v: 5, u: 4
+v: 1, u: 6
+v: 4]",-1,-1,False,False,robot,0,1,2,"[u: 6
+v: 5, u: 6
+v: 4, u: 4
+v: 5, u: 7
+v: 6, u: 4
+v: 1]",1,2,False,False,56,1,human
+1361.243953704834,124,collab-activity,"[u: 6
+v: 5, u: 6
+v: 4, u: 4
+v: 5, u: 7
+v: 6, u: 4
+v: 1]",1,2,False,False,human,6,-1,-1,"[u: 4
+v: 5, u: 7
+v: 6, u: 1
+v: 2, u: 6
+v: 5, u: 4
+v: 1, u: 6
+v: 4]",-1,-1,False,False,57,1,human
+1376.781313419342,125,collab-activity,"[u: 4
+v: 5, u: 7
+v: 6, u: 1
+v: 2, u: 6
+v: 5, u: 4
+v: 1, u: 6
+v: 4]",-1,-1,False,False,human,0,3,1,"[u: 1
+v: 2, u: 6
+v: 5, u: 6
+v: 4, u: 4
+v: 5, u: 7
+v: 6, u: 4
+v: 1]",3,1,False,False,58,1,robot
+1392.3372101783752,126,collab-activity,"[u: 1
+v: 2, u: 6
+v: 5, u: 6
+v: 4, u: 4
+v: 5, u: 7
+v: 6, u: 4
+v: 1]",3,1,False,False,robot,0,3,1,"[u: 4
+v: 5, u: 1
+v: 2, u: 7
+v: 6, u: 6
+v: 5, u: 3
+v: 1, u: 4
+v: 1, u: 6
+v: 4]",-1,-1,False,False,59,1,robot
+1401.9984183311462,127,collab-activity,"[u: 4
+v: 5, u: 1
+v: 2, u: 7
+v: 6, u: 6
+v: 5, u: 3
+v: 1, u: 4
+v: 1, u: 6
+v: 4]",-1,-1,False,False,robot,0,1,9,"[u: 1
+v: 2, u: 6
+v: 5, u: 3
+v: 1, u: 6
+v: 4, u: 4
+v: 5, u: 7
+v: 6, u: 4
+v: 1]",1,9,False,False,60,1,human
+1465.698401927948,128,collab-activity,"[u: 1
+v: 2, u: 6
+v: 5, u: 3
+v: 1, u: 6
+v: 4, u: 4
+v: 5, u: 7
+v: 6, u: 4
+v: 1]",1,9,False,False,human,7,-1,-1,"[u: 1
+v: 2, u: 6
+v: 5, u: 3
+v: 1, u: 6
+v: 4, u: 4
+v: 5, u: 7
+v: 6, u: 4
+v: 1]",-1,-1,False,False,61,1,human
+1482.7060825824738,129,collab-activity,"[u: 1
+v: 2, u: 6
+v: 5, u: 3
+v: 1, u: 6
+v: 4, u: 4
+v: 5, u: 7
+v: 6, u: 4
+v: 1]",-1,-1,False,False,human,0,0,3,"[u: 1
+v: 2, u: 6
+v: 5, u: 3
+v: 1, u: 6
+v: 4, u: 4
+v: 5, u: 7
+v: 6, u: 4
+v: 1]",0,3,False,False,62,1,robot
+1497.8141191005707,130,collab-activity,"[u: 1
+v: 2, u: 6
+v: 5, u: 3
+v: 1, u: 6
+v: 4, u: 4
+v: 5, u: 7
+v: 6, u: 4
+v: 1]",0,3,False,False,robot,0,0,3,"[u: 4
+v: 5, u: 1
+v: 2, u: 7
+v: 6, u: 6
+v: 5, u: 3
+v: 1, u: 0
+v: 3, u: 4
+v: 1, u: 6
+v: 4]",-1,-1,False,False,63,1,robot
+1506.4196434020996,131,collab-activity,"[u: 4
+v: 5, u: 1
+v: 2, u: 7
+v: 6, u: 6
+v: 5, u: 3
+v: 1, u: 0
+v: 3, u: 4
+v: 1, u: 6
+v: 4]",-1,-1,False,False,robot,0,3,2,"[u: 1
+v: 2, u: 6
+v: 5, u: 3
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 4
+v: 5, u: 7
+v: 6, u: 4
+v: 1]",3,2,False,False,64,1,human
+1534.4418351650238,132,collab-activity,"[u: 1
+v: 2, u: 6
+v: 5, u: 3
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 4
+v: 5, u: 7
+v: 6, u: 4
+v: 1]",3,2,False,False,human,7,-1,-1,"[u: 1
+v: 2, u: 6
+v: 5, u: 3
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 4
+v: 5, u: 7
+v: 6, u: 4
+v: 1]",-1,-1,False,False,65,1,human
+1547.6309118270874,133,collab-activity,"[u: 1
+v: 2, u: 6
+v: 5, u: 3
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 4
+v: 5, u: 7
+v: 6, u: 4
+v: 1]",-1,-1,False,False,human,0,8,9,"[u: 1
+v: 2, u: 6
+v: 5, u: 3
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 4
+v: 5, u: 7
+v: 6, u: 4
+v: 1]",8,9,False,False,66,1,robot
+1563.3797082901,134,collab-activity,"[u: 1
+v: 2, u: 6
+v: 5, u: 3
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 4
+v: 5, u: 7
+v: 6, u: 4
+v: 1]",8,9,False,False,robot,0,8,9,"[u: 1
+v: 2, u: 6
+v: 5, u: 3
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 4
+v: 5, u: 7
+v: 6, u: 8
+v: 9, u: 4
+v: 1]",-1,-1,False,False,67,1,robot
+1571.7586987018585,135,collab-activity,"[u: 1
+v: 2, u: 6
+v: 5, u: 3
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 4
+v: 5, u: 7
+v: 6, u: 8
+v: 9, u: 4
+v: 1]",-1,-1,False,False,robot,0,9,1,"[u: 1
+v: 2, u: 6
+v: 5, u: 3
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 4
+v: 5, u: 7
+v: 6, u: 8
+v: 9, u: 4
+v: 1]",9,1,False,False,68,1,human
+1572.9803879261017,136,collab-activity,"[u: 1
+v: 2, u: 6
+v: 5, u: 3
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 4
+v: 5, u: 7
+v: 6, u: 8
+v: 9, u: 4
+v: 1]",9,1,False,False,human,6,-1,-1,"[u: 1
+v: 2, u: 6
+v: 5, u: 3
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 4
+v: 5, u: 7
+v: 6, u: 8
+v: 9, u: 9
+v: 1, u: 4
+v: 1]",-1,-1,False,False,69,1,human
+1588.0682978630066,137,collab-activity,"[u: 1
+v: 2, u: 6
+v: 5, u: 3
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 4
+v: 5, u: 7
+v: 6, u: 8
+v: 9, u: 9
+v: 1, u: 4
+v: 1]",-1,-1,False,False,human,3,-1,-1,[],-1,-1,False,False,70,1,human
+1614.1666176319122,138,collab-activity,[],-1,-1,False,False,human,0,6,4,[],6,4,False,False,71,1,robot
+1627.2573130130768,139,collab-activity,[],6,4,False,False,robot,0,6,4,"[u: 6
+v: 4]",-1,-1,False,False,72,1,robot
+1636.6765859127045,140,collab-activity,"[u: 6
+v: 4]",-1,-1,False,False,robot,0,4,5,"[u: 6
+v: 4]",4,5,False,False,73,1,human
+1641.7173109054565,141,collab-activity,"[u: 6
+v: 4]",4,5,False,False,human,6,-1,-1,"[u: 4
+v: 5, u: 6
+v: 4]",-1,-1,False,False,74,1,human
+1672.4797947406769,142,collab-activity,"[u: 4
+v: 5, u: 6
+v: 4]",-1,-1,False,False,human,0,5,7,"[u: 4
+v: 5, u: 6
+v: 4]",5,7,False,False,75,1,robot
+1686.2387824058533,143,collab-activity,"[u: 4
+v: 5, u: 6
+v: 4]",5,7,False,False,robot,0,5,7,"[u: 4
+v: 5, u: 6
+v: 4, u: 5
+v: 7]",-1,-1,False,False,76,1,robot
+1695.539633989334,144,collab-activity,"[u: 4
+v: 5, u: 6
+v: 4, u: 5
+v: 7]",-1,-1,False,False,robot,0,7,6,"[u: 4
+v: 5, u: 6
+v: 4, u: 5
+v: 7]",7,6,False,False,77,1,human
+1708.5824806690216,145,collab-activity,"[u: 4
+v: 5, u: 6
+v: 4, u: 5
+v: 7]",7,6,False,False,human,7,-1,-1,"[u: 4
+v: 5, u: 6
+v: 4, u: 5
+v: 7]",-1,-1,False,False,78,1,human
+1722.3306317329407,146,collab-activity,"[u: 4
+v: 5, u: 6
+v: 4, u: 5
+v: 7]",-1,-1,False,False,human,0,2,1,"[u: 4
+v: 5, u: 6
+v: 4, u: 5
+v: 7]",2,1,False,False,79,1,robot
+1737.857352256775,147,collab-activity,"[u: 4
+v: 5, u: 6
+v: 4, u: 5
+v: 7]",2,1,False,False,robot,0,2,1,"[u: 4
+v: 5, u: 2
+v: 1, u: 6
+v: 4, u: 5
+v: 7]",-1,-1,False,False,80,1,robot
+1745.6240248680115,148,collab-activity,"[u: 4
+v: 5, u: 2
+v: 1, u: 6
+v: 4, u: 5
+v: 7]",-1,-1,False,False,robot,0,1,3,"[u: 4
+v: 5, u: 6
+v: 4, u: 2
+v: 1, u: 5
+v: 7]",1,3,False,False,81,1,human
+1792.8168754577637,149,collab-activity,"[u: 4
+v: 5, u: 6
+v: 4, u: 2
+v: 1, u: 5
+v: 7]",1,3,False,False,human,6,-1,-1,"[u: 4
+v: 5, u: 2
+v: 1, u: 1
+v: 3, u: 6
+v: 4, u: 5
+v: 7]",-1,-1,False,False,82,1,human
+1804.0741472244263,150,collab-activity,"[u: 4
+v: 5, u: 2
+v: 1, u: 1
+v: 3, u: 6
+v: 4, u: 5
+v: 7]",-1,-1,False,False,human,0,0,3,"[u: 2
+v: 1, u: 6
+v: 4, u: 5
+v: 7, u: 4
+v: 5, u: 1
+v: 3]",0,3,False,False,83,1,robot
+1818.7380821704865,151,collab-activity,"[u: 2
+v: 1, u: 6
+v: 4, u: 5
+v: 7, u: 4
+v: 5, u: 1
+v: 3]",0,3,False,False,robot,0,0,3,"[u: 4
+v: 5, u: 2
+v: 1, u: 0
+v: 3, u: 1
+v: 3, u: 6
+v: 4, u: 5
+v: 7]",-1,-1,False,False,84,1,robot
+1827.3595476150513,152,collab-activity,"[u: 4
+v: 5, u: 2
+v: 1, u: 0
+v: 3, u: 1
+v: 3, u: 6
+v: 4, u: 5
+v: 7]",-1,-1,False,False,robot,0,3,2,"[u: 2
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 5
+v: 7, u: 4
+v: 5, u: 1
+v: 3]",3,2,False,False,85,1,human
+1829.1619095802307,153,collab-activity,"[u: 2
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 5
+v: 7, u: 4
+v: 5, u: 1
+v: 3]",3,2,False,False,human,7,-1,-1,"[u: 2
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 5
+v: 7, u: 4
+v: 5, u: 1
+v: 3]",-1,-1,False,False,86,1,human
+1842.2065017223358,154,collab-activity,"[u: 2
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 5
+v: 7, u: 4
+v: 5, u: 1
+v: 3]",-1,-1,False,False,human,0,4,9,"[u: 2
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 5
+v: 7, u: 4
+v: 5, u: 1
+v: 3]",4,9,False,False,87,1,robot
+1857.240928888321,155,collab-activity,"[u: 2
+v: 1, u: 0
+v: 3, u: 6
+v: 4, u: 5
+v: 7, u: 4
+v: 5, u: 1
+v: 3]",4,9,False,False,robot,0,4,9,"[u: 4
+v: 5, u: 2
+v: 1, u: 4
+v: 9, u: 0
+v: 3, u: 1
+v: 3, u: 6
+v: 4, u: 5
+v: 7]",-1,-1,False,False,88,1,robot
+1866.059499502182,156,collab-activity,"[u: 4
+v: 5, u: 2
+v: 1, u: 4
+v: 9, u: 0
+v: 3, u: 1
+v: 3, u: 6
+v: 4, u: 5
+v: 7]",-1,-1,False,False,robot,0,9,8,"[u: 2
+v: 1, u: 4
+v: 9, u: 0
+v: 3, u: 6
+v: 4, u: 5
+v: 7, u: 4
+v: 5, u: 1
+v: 3]",9,8,False,False,89,1,human
+1873.9347610473633,157,collab-activity,"[u: 2
+v: 1, u: 4
+v: 9, u: 0
+v: 3, u: 6
+v: 4, u: 5
+v: 7, u: 4
+v: 5, u: 1
+v: 3]",9,8,False,False,human,6,-1,-1,"[u: 4
+v: 5, u: 2
+v: 1, u: 9
+v: 8, u: 4
+v: 9, u: 0
+v: 3, u: 1
+v: 3, u: 6
+v: 4, u: 5
+v: 7]",-1,-1,False,False,90,1,human
+1919.8399662971497,158,collab-activity,"[u: 4
+v: 5, u: 2
+v: 1, u: 9
+v: 8, u: 4
+v: 9, u: 0
+v: 3, u: 1
+v: 3, u: 6
+v: 4, u: 5
+v: 7]",-1,-1,False,False,human,0,4,1,"[u: 2
+v: 1, u: 4
+v: 9, u: 0
+v: 3, u: 6
+v: 4, u: 5
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 1
+v: 3]",4,1,False,False,91,1,robot
+1934.8892939090729,159,collab-activity,"[u: 2
+v: 1, u: 4
+v: 9, u: 0
+v: 3, u: 6
+v: 4, u: 5
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 1
+v: 3]",4,1,False,False,robot,0,4,1,"[u: 2
+v: 1, u: 4
+v: 1, u: 4
+v: 9, u: 0
+v: 3, u: 6
+v: 4, u: 5
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 1
+v: 3]",-1,-1,False,False,92,1,robot
+1944.0761592388153,160,collab-activity,"[u: 2
+v: 1, u: 4
+v: 1, u: 4
+v: 9, u: 0
+v: 3, u: 6
+v: 4, u: 5
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 1
+v: 3]",-1,-1,False,False,robot,0,1,9,"[u: 1
+v: 3, u: 2
+v: 1, u: 4
+v: 9, u: 0
+v: 3, u: 6
+v: 4, u: 5
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 4
+v: 1]",1,9,False,False,93,1,human
+1945.3565428256989,161,collab-activity,"[u: 1
+v: 3, u: 2
+v: 1, u: 4
+v: 9, u: 0
+v: 3, u: 6
+v: 4, u: 5
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 4
+v: 1]",1,9,False,False,human,7,-1,-1,"[u: 2
+v: 1, u: 4
+v: 1, u: 4
+v: 9, u: 0
+v: 3, u: 6
+v: 4, u: 5
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 1
+v: 3]",-1,-1,False,False,94,1,human
+1955.1260557174683,162,collab-activity,"[u: 2
+v: 1, u: 4
+v: 1, u: 4
+v: 9, u: 0
+v: 3, u: 6
+v: 4, u: 5
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 1
+v: 3]",-1,-1,False,False,human,3,-1,-1,[],-1,-1,False,False,95,1,human
+2000.428479194641,163,collab-activity-2,[],-1,-1,False,False,robot,0,0,3,[],0,3,False,False,0,1,human
+2002.5787162780762,164,collab-activity-2,[],0,3,False,False,human,6,-1,-1,"[u: 0
+v: 3]",-1,-1,False,False,1,1,human
+2016.0031397342682,165,collab-activity-2,"[u: 0
+v: 3]",-1,-1,False,False,human,0,1,3,"[u: 0
+v: 3]",1,3,False,False,2,1,robot
+2035.6181592941284,166,collab-activity-2,"[u: 0
+v: 3]",1,3,False,False,robot,0,1,2,"[u: 0
+v: 3]",1,2,False,False,3,1,human
+2041.481283903122,167,collab-activity-2,"[u: 0
+v: 3]",1,2,False,False,human,6,-1,-1,"[u: 1
+v: 2, u: 0
+v: 3]",-1,-1,False,False,4,1,human
+2077.3308997154236,168,collab-activity-2,"[u: 1
+v: 2, u: 0
+v: 3]",-1,-1,False,False,human,0,9,8,"[u: 1
+v: 2, u: 0
+v: 3]",9,8,False,False,5,1,robot
+2092.970293045044,169,collab-activity-2,"[u: 1
+v: 2, u: 0
+v: 3]",9,8,False,False,robot,0,9,8,"[u: 1
+v: 2, u: 9
+v: 8, u: 0
+v: 3]",-1,-1,False,False,6,1,robot
+2102.4176633358,170,collab-activity-2,"[u: 1
+v: 2, u: 9
+v: 8, u: 0
+v: 3]",-1,-1,False,False,robot,0,8,2,"[u: 1
+v: 2, u: 9
+v: 8, u: 0
+v: 3]",8,2,False,False,7,1,human
+2105.0086872577667,171,collab-activity-2,"[u: 1
+v: 2, u: 9
+v: 8, u: 0
+v: 3]",8,2,False,False,human,7,-1,-1,"[u: 1
+v: 2, u: 9
+v: 8, u: 0
+v: 3]",-1,-1,False,False,8,1,human
+2117.434773206711,172,collab-activity-2,"[u: 1
+v: 2, u: 9
+v: 8, u: 0
+v: 3]",-1,-1,False,False,human,0,6,7,"[u: 1
+v: 2, u: 9
+v: 8, u: 0
+v: 3]",6,7,False,False,9,1,robot
+2135.770302295685,173,collab-activity-2,"[u: 1
+v: 2, u: 9
+v: 8, u: 0
+v: 3]",6,7,False,False,robot,0,6,4,"[u: 1
+v: 2, u: 9
+v: 8, u: 0
+v: 3]",6,4,False,False,10,1,human
+2137.735758304596,174,collab-activity-2,"[u: 1
+v: 2, u: 9
+v: 8, u: 0
+v: 3]",6,4,False,False,human,6,-1,-1,"[u: 1
+v: 2, u: 6
+v: 4, u: 9
+v: 8, u: 0
+v: 3]",-1,-1,False,False,11,1,human
+2168.610633611679,175,collab-activity-2,"[u: 1
+v: 2, u: 6
+v: 4, u: 9
+v: 8, u: 0
+v: 3]",-1,-1,False,False,human,0,6,7,"[u: 9
+v: 8, u: 1
+v: 2, u: 6
+v: 4, u: 0
+v: 3]",6,7,False,False,12,1,robot
+2184.3218977451324,176,collab-activity-2,"[u: 9
+v: 8, u: 1
+v: 2, u: 6
+v: 4, u: 0
+v: 3]",6,7,False,False,robot,0,6,7,"[u: 6
+v: 7, u: 1
+v: 2, u: 9
+v: 8, u: 0
+v: 3, u: 6
+v: 4]",-1,-1,False,False,13,1,robot
+2193.3278415203094,177,collab-activity-2,"[u: 6
+v: 7, u: 1
+v: 2, u: 9
+v: 8, u: 0
+v: 3, u: 6
+v: 4]",-1,-1,False,False,robot,0,7,5,"[u: 1
+v: 2, u: 0
+v: 3, u: 6
+v: 4, u: 6
+v: 7, u: 9
+v: 8]",7,5,False,False,14,1,human
+2201.8208158016205,178,collab-activity-2,"[u: 1
+v: 2, u: 0
+v: 3, u: 6
+v: 4, u: 6
+v: 7, u: 9
+v: 8]",7,5,False,False,human,7,-1,-1,"[u: 1
+v: 2, u: 0
+v: 3, u: 6
+v: 4, u: 6
+v: 7, u: 9
+v: 8]",-1,-1,False,False,15,1,human
+2216.292407512665,179,collab-activity-2,"[u: 1
+v: 2, u: 0
+v: 3, u: 6
+v: 4, u: 6
+v: 7, u: 9
+v: 8]",-1,-1,False,False,human,0,4,5,"[u: 1
+v: 2, u: 0
+v: 3, u: 6
+v: 4, u: 6
+v: 7, u: 9
+v: 8]",4,5,False,False,16,1,robot
+2229.584993124008,180,collab-activity-2,"[u: 1
+v: 2, u: 0
+v: 3, u: 6
+v: 4, u: 6
+v: 7, u: 9
+v: 8]",4,5,False,False,robot,0,4,5,"[u: 6
+v: 7, u: 4
+v: 5, u: 1
+v: 2, u: 9
+v: 8, u: 0
+v: 3, u: 6
+v: 4]",-1,-1,False,False,17,1,robot
+2239.005111694336,181,collab-activity-2,"[u: 6
+v: 7, u: 4
+v: 5, u: 1
+v: 2, u: 9
+v: 8, u: 0
+v: 3, u: 6
+v: 4]",-1,-1,False,False,robot,0,5,7,"[u: 1
+v: 2, u: 0
+v: 3, u: 6
+v: 4, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8]",5,7,False,False,18,1,human
+2259.2006900310516,182,collab-activity-2,"[u: 1
+v: 2, u: 0
+v: 3, u: 6
+v: 4, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8]",5,7,False,False,human,7,-1,-1,"[u: 1
+v: 2, u: 0
+v: 3, u: 6
+v: 4, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8]",-1,-1,False,False,19,1,human
+2285.5155985355377,183,collab-activity-2,"[u: 1
+v: 2, u: 0
+v: 3, u: 6
+v: 4, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8]",-1,-1,False,False,human,0,8,2,"[u: 1
+v: 2, u: 0
+v: 3, u: 6
+v: 4, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8]",8,2,False,False,20,1,robot
+2299.3994867801666,184,collab-activity-2,"[u: 1
+v: 2, u: 0
+v: 3, u: 6
+v: 4, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8]",8,2,False,False,robot,0,8,2,"[u: 6
+v: 7, u: 4
+v: 5, u: 1
+v: 2, u: 9
+v: 8, u: 8
+v: 2, u: 0
+v: 3, u: 6
+v: 4]",-1,-1,False,False,21,1,robot
+2309.1296343803406,185,collab-activity-2,"[u: 6
+v: 7, u: 4
+v: 5, u: 1
+v: 2, u: 9
+v: 8, u: 8
+v: 2, u: 0
+v: 3, u: 6
+v: 4]",-1,-1,False,False,robot,0,2,3,"[u: 1
+v: 2, u: 0
+v: 3, u: 6
+v: 4, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",2,3,False,False,22,1,human
+2323.3850684165955,186,collab-activity-2,"[u: 1
+v: 2, u: 0
+v: 3, u: 6
+v: 4, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",2,3,False,False,human,7,-1,-1,"[u: 1
+v: 2, u: 0
+v: 3, u: 6
+v: 4, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",-1,-1,False,False,23,1,human
+2340.127874851227,187,collab-activity-2,"[u: 1
+v: 2, u: 0
+v: 3, u: 6
+v: 4, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",-1,-1,False,False,human,0,4,9,"[u: 1
+v: 2, u: 0
+v: 3, u: 6
+v: 4, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",4,9,False,False,24,1,robot
+2356.3613588809967,188,collab-activity-2,"[u: 1
+v: 2, u: 0
+v: 3, u: 6
+v: 4, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",4,9,False,False,robot,0,4,9,"[u: 6
+v: 7, u: 4
+v: 5, u: 1
+v: 2, u: 9
+v: 8, u: 4
+v: 9, u: 8
+v: 2, u: 0
+v: 3, u: 6
+v: 4]",-1,-1,False,False,25,1,robot
+2364.4517958164215,189,collab-activity-2,"[u: 6
+v: 7, u: 4
+v: 5, u: 1
+v: 2, u: 9
+v: 8, u: 4
+v: 9, u: 8
+v: 2, u: 0
+v: 3, u: 6
+v: 4]",-1,-1,False,False,robot,0,9,1,"[u: 1
+v: 2, u: 4
+v: 9, u: 0
+v: 3, u: 6
+v: 4, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",9,1,False,False,26,1,human
+2369.0046911239624,190,collab-activity-2,"[u: 1
+v: 2, u: 4
+v: 9, u: 0
+v: 3, u: 6
+v: 4, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",9,1,False,False,human,7,-1,-1,"[u: 1
+v: 2, u: 4
+v: 9, u: 0
+v: 3, u: 6
+v: 4, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",-1,-1,False,False,27,1,human
+2380.1086056232452,191,collab-activity-2,"[u: 1
+v: 2, u: 4
+v: 9, u: 0
+v: 3, u: 6
+v: 4, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",-1,-1,False,False,human,3,-1,-1,[],-1,-1,False,False,28,1,human
+2409.477014541626,192,collab-activity-2,[],-1,-1,False,False,human,0,1,2,[],1,2,False,False,29,1,robot
+2423.3168148994446,193,collab-activity-2,[],1,2,False,False,robot,0,1,2,"[u: 1
+v: 2]",-1,-1,False,False,30,1,robot
+2431.7391769886017,194,collab-activity-2,"[u: 1
+v: 2]",-1,-1,False,False,robot,0,2,3,"[u: 1
+v: 2]",2,3,False,False,31,1,human
+2442.284604549408,195,collab-activity-2,"[u: 1
+v: 2]",2,3,False,False,human,7,-1,-1,"[u: 1
+v: 2]",-1,-1,False,False,32,1,human
+2456.163548707962,196,collab-activity-2,"[u: 1
+v: 2]",-1,-1,False,False,human,0,6,7,"[u: 1
+v: 2]",6,7,False,False,33,1,robot
+2473.2833988666534,197,collab-activity-2,"[u: 1
+v: 2]",6,7,False,False,robot,0,6,7,"[u: 6
+v: 7, u: 1
+v: 2]",-1,-1,False,False,34,1,robot
+2481.504653930664,198,collab-activity-2,"[u: 6
+v: 7, u: 1
+v: 2]",-1,-1,False,False,robot,0,7,5,"[u: 6
+v: 7, u: 1
+v: 2]",7,5,False,False,35,1,human
+2484.3416481018066,199,collab-activity-2,"[u: 6
+v: 7, u: 1
+v: 2]",7,5,False,False,human,7,-1,-1,"[u: 6
+v: 7, u: 1
+v: 2]",-1,-1,False,False,36,1,human
+2506.941355228424,200,collab-activity-2,"[u: 6
+v: 7, u: 1
+v: 2]",-1,-1,False,False,human,0,6,4,"[u: 6
+v: 7, u: 1
+v: 2]",6,4,False,False,37,1,robot
+2522.0267627239227,201,collab-activity-2,"[u: 6
+v: 7, u: 1
+v: 2]",6,4,False,False,robot,0,6,4,"[u: 6
+v: 7, u: 1
+v: 2, u: 6
+v: 4]",-1,-1,False,False,38,1,robot
+2531.254297018051,202,collab-activity-2,"[u: 6
+v: 7, u: 1
+v: 2, u: 6
+v: 4]",-1,-1,False,False,robot,0,4,5,"[u: 6
+v: 7, u: 1
+v: 2, u: 6
+v: 4]",4,5,False,False,39,1,human
+2538.6488077640533,203,collab-activity-2,"[u: 6
+v: 7, u: 1
+v: 2, u: 6
+v: 4]",4,5,False,False,human,6,-1,-1,"[u: 6
+v: 7, u: 4
+v: 5, u: 1
+v: 2, u: 6
+v: 4]",-1,-1,False,False,40,1,human
+2538.6957314014435,204,collab-activity-2,"[u: 6
+v: 7, u: 4
+v: 5, u: 1
+v: 2, u: 6
+v: 4]",-1,-1,False,False,human,6,-1,-1,"[u: 6
+v: 7, u: 4
+v: 5, u: 1
+v: 2, u: 6
+v: 4]",-1,-1,False,False,41,1,human
+2627.3197042942047,1,collab-activity-2,[],-1,-1,False,False,robot,0,0,3,[],0,3,False,False,0,1,human
+2637.061091899872,2,collab-activity-2,[],0,3,False,False,human,7,-1,-1,[],-1,-1,False,False,1,1,human
+2651.3521678447723,3,collab-activity-2,[],-1,-1,False,False,human,0,6,7,[],6,7,False,False,2,1,robot
+2670.1150810718536,4,collab-activity-2,[],6,7,False,False,robot,0,6,4,[],6,4,False,False,3,1,human
+2671.2588794231415,5,collab-activity-2,[],6,4,False,False,human,6,-1,-1,"[u: 6
+v: 4]",-1,-1,False,False,4,1,human
+2687.6012852191925,6,collab-activity-2,"[u: 6
+v: 4]",-1,-1,False,False,human,0,4,5,"[u: 6
+v: 4]",4,5,False,False,5,1,robot
+2701.8426039218903,7,collab-activity-2,"[u: 6
+v: 4]",4,5,False,False,robot,0,4,5,"[u: 4
+v: 5, u: 6
+v: 4]",-1,-1,False,False,6,1,robot
+2711.2812542915344,8,collab-activity-2,"[u: 4
+v: 5, u: 6
+v: 4]",-1,-1,False,False,robot,0,5,7,"[u: 4
+v: 5, u: 6
+v: 4]",5,7,False,False,7,1,human
+2713.3896470069885,9,collab-activity-2,"[u: 4
+v: 5, u: 6
+v: 4]",5,7,False,False,human,7,-1,-1,"[u: 4
+v: 5, u: 6
+v: 4]",-1,-1,False,False,8,1,human
+2730.8697452545166,10,collab-activity-2,"[u: 4
+v: 5, u: 6
+v: 4]",-1,-1,False,False,human,0,1,2,"[u: 4
+v: 5, u: 6
+v: 4]",1,2,False,False,9,1,robot
+2744.4466605186462,11,collab-activity-2,"[u: 4
+v: 5, u: 6
+v: 4]",1,2,False,False,robot,0,1,2,"[u: 4
+v: 5, u: 1
+v: 2, u: 6
+v: 4]",-1,-1,False,False,10,1,robot
+2753.062132835388,12,collab-activity-2,"[u: 4
+v: 5, u: 1
+v: 2, u: 6
+v: 4]",-1,-1,False,False,robot,0,2,3,"[u: 4
+v: 5, u: 1
+v: 2, u: 6
+v: 4]",2,3,False,False,11,1,human
+2756.680683374405,13,collab-activity-2,"[u: 4
+v: 5, u: 1
+v: 2, u: 6
+v: 4]",2,3,False,False,human,7,-1,-1,"[u: 4
+v: 5, u: 1
+v: 2, u: 6
+v: 4]",-1,-1,False,False,12,1,human
+2767.7601330280304,14,collab-activity-2,"[u: 4
+v: 5, u: 1
+v: 2, u: 6
+v: 4]",-1,-1,False,False,human,0,9,8,"[u: 4
+v: 5, u: 1
+v: 2, u: 6
+v: 4]",9,8,False,False,13,1,robot
+2781.2151868343353,15,collab-activity-2,"[u: 4
+v: 5, u: 1
+v: 2, u: 6
+v: 4]",9,8,False,False,robot,0,9,8,"[u: 9
+v: 8, u: 4
+v: 5, u: 1
+v: 2, u: 6
+v: 4]",-1,-1,False,False,14,1,robot
+2789.5573015213013,16,collab-activity-2,"[u: 9
+v: 8, u: 4
+v: 5, u: 1
+v: 2, u: 6
+v: 4]",-1,-1,False,False,robot,0,8,2,"[u: 4
+v: 5, u: 1
+v: 2, u: 6
+v: 4, u: 9
+v: 8]",8,2,False,False,15,1,human
+2801.4865391254425,17,collab-activity-2,"[u: 4
+v: 5, u: 1
+v: 2, u: 6
+v: 4, u: 9
+v: 8]",8,2,False,False,human,6,-1,-1,"[u: 4
+v: 5, u: 1
+v: 2, u: 9
+v: 8, u: 8
+v: 2, u: 6
+v: 4]",-1,-1,False,False,16,1,human
+2814.848049879074,18,collab-activity-2,"[u: 4
+v: 5, u: 1
+v: 2, u: 9
+v: 8, u: 8
+v: 2, u: 6
+v: 4]",-1,-1,False,False,human,0,2,3,"[u: 1
+v: 2, u: 6
+v: 4, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",2,3,False,False,17,1,robot
+2830.4726090431213,19,collab-activity-2,"[u: 1
+v: 2, u: 6
+v: 4, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",2,3,False,False,robot,0,2,3,"[u: 2
+v: 3, u: 4
+v: 5, u: 1
+v: 2, u: 9
+v: 8, u: 8
+v: 2, u: 6
+v: 4]",-1,-1,False,False,18,1,robot
+2839.2704055309296,20,collab-activity-2,"[u: 2
+v: 3, u: 4
+v: 5, u: 1
+v: 2, u: 9
+v: 8, u: 8
+v: 2, u: 6
+v: 4]",-1,-1,False,False,robot,0,3,1,"[u: 1
+v: 2, u: 6
+v: 4, u: 2
+v: 3, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",3,1,False,False,19,1,human
+2844.4142684936523,21,collab-activity-2,"[u: 1
+v: 2, u: 6
+v: 4, u: 2
+v: 3, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",3,1,False,False,human,7,-1,-1,"[u: 1
+v: 2, u: 6
+v: 4, u: 2
+v: 3, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",-1,-1,False,False,20,1,human
+2858.8687822818756,22,collab-activity-2,"[u: 1
+v: 2, u: 6
+v: 4, u: 2
+v: 3, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",-1,-1,False,False,human,0,3,0,"[u: 1
+v: 2, u: 6
+v: 4, u: 2
+v: 3, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",3,0,False,False,21,1,robot
+2877.78421831131,23,collab-activity-2,"[u: 1
+v: 2, u: 6
+v: 4, u: 2
+v: 3, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",3,0,False,False,robot,0,3,1,"[u: 1
+v: 2, u: 6
+v: 4, u: 2
+v: 3, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",3,1,False,False,22,1,human
+2904.5013358592987,24,collab-activity-2,"[u: 1
+v: 2, u: 6
+v: 4, u: 2
+v: 3, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",3,1,False,False,human,6,-1,-1,"[u: 2
+v: 3, u: 4
+v: 5, u: 1
+v: 2, u: 9
+v: 8, u: 3
+v: 1, u: 8
+v: 2, u: 6
+v: 4]",-1,-1,False,False,23,1,human
+2918.189702272415,25,collab-activity-2,"[u: 2
+v: 3, u: 4
+v: 5, u: 1
+v: 2, u: 9
+v: 8, u: 3
+v: 1, u: 8
+v: 2, u: 6
+v: 4]",-1,-1,False,False,human,0,6,7,"[u: 1
+v: 2, u: 3
+v: 1, u: 6
+v: 4, u: 2
+v: 3, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",6,7,False,False,24,1,robot
+2933.5037610530853,26,collab-activity-2,"[u: 1
+v: 2, u: 3
+v: 1, u: 6
+v: 4, u: 2
+v: 3, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",6,7,False,False,robot,0,6,7,"[u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 1
+v: 2, u: 9
+v: 8, u: 3
+v: 1, u: 8
+v: 2, u: 6
+v: 4]",-1,-1,False,False,25,1,robot
+2942.694104194641,27,collab-activity-2,"[u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 1
+v: 2, u: 9
+v: 8, u: 3
+v: 1, u: 8
+v: 2, u: 6
+v: 4]",-1,-1,False,False,robot,0,7,5,"[u: 1
+v: 2, u: 3
+v: 1, u: 6
+v: 4, u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",7,5,False,False,26,1,human
+2955.1469333171844,28,collab-activity-2,"[u: 1
+v: 2, u: 3
+v: 1, u: 6
+v: 4, u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",7,5,False,False,human,6,-1,-1,"[u: 1
+v: 2, u: 3
+v: 1, u: 6
+v: 4, u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2, u: 7
+v: 5]",-1,-1,False,False,27,1,human
+2965.9517726898193,29,collab-activity-2,"[u: 1
+v: 2, u: 3
+v: 1, u: 6
+v: 4, u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2, u: 7
+v: 5]",-1,-1,False,False,human,3,-1,-1,[],-1,-1,False,False,28,1,human
+2989.900942325592,30,collab-activity-2,[],-1,-1,False,False,human,0,4,6,[],4,6,False,False,29,1,robot
+3008.291289329529,31,collab-activity-2,[],4,6,False,False,robot,0,4,5,[],4,5,False,False,30,1,human
+3009.6035058498383,32,collab-activity-2,[],4,5,False,False,human,6,-1,-1,"[u: 4
+v: 5]",-1,-1,False,False,31,1,human
+3022.0201001167297,33,collab-activity-2,"[u: 4
+v: 5]",-1,-1,False,False,human,0,4,6,"[u: 4
+v: 5]",4,6,False,False,32,1,robot
+3035.082815170288,34,collab-activity-2,"[u: 4
+v: 5]",4,6,False,False,robot,0,4,6,"[u: 4
+v: 5, u: 4
+v: 6]",-1,-1,False,False,33,1,robot
+3044.079594373703,35,collab-activity-2,"[u: 4
+v: 5, u: 4
+v: 6]",-1,-1,False,False,robot,0,6,7,"[u: 4
+v: 5, u: 4
+v: 6]",6,7,False,False,34,1,human
+3045.067758321762,36,collab-activity-2,"[u: 4
+v: 5, u: 4
+v: 6]",6,7,False,False,human,6,-1,-1,"[u: 6
+v: 7, u: 4
+v: 5, u: 4
+v: 6]",-1,-1,False,False,35,1,human
+3064.2647626399994,37,collab-activity-2,"[u: 6
+v: 7, u: 4
+v: 5, u: 4
+v: 6]",-1,-1,False,False,human,0,9,8,"[u: 6
+v: 7, u: 4
+v: 5, u: 4
+v: 6]",9,8,False,False,36,1,robot
+3079.7105445861816,38,collab-activity-2,"[u: 6
+v: 7, u: 4
+v: 5, u: 4
+v: 6]",9,8,False,False,robot,0,9,8,"[u: 6
+v: 7, u: 4
+v: 5, u: 4
+v: 6, u: 9
+v: 8]",-1,-1,False,False,37,1,robot
+3089.541665315628,39,collab-activity-2,"[u: 6
+v: 7, u: 4
+v: 5, u: 4
+v: 6, u: 9
+v: 8]",-1,-1,False,False,robot,0,8,2,"[u: 6
+v: 7, u: 4
+v: 5, u: 4
+v: 6, u: 9
+v: 8]",8,2,False,False,38,1,human
+3090.1754066944122,40,collab-activity-2,"[u: 6
+v: 7, u: 4
+v: 5, u: 4
+v: 6, u: 9
+v: 8]",8,2,False,False,human,6,-1,-1,"[u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2, u: 4
+v: 6]",-1,-1,False,False,39,1,human
+3124.538496017456,41,collab-activity-2,"[u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2, u: 4
+v: 6]",-1,-1,False,False,human,0,3,0,"[u: 4
+v: 6, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",3,0,False,False,40,1,robot
+3142.3758573532104,42,collab-activity-2,"[u: 4
+v: 6, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",3,0,False,False,robot,0,3,0,"[u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2, u: 4
+v: 6, u: 3
+v: 0]",-1,-1,False,False,41,1,robot
+3150.3532361984253,43,collab-activity-2,"[u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2, u: 4
+v: 6, u: 3
+v: 0]",-1,-1,False,False,robot,0,0,7,"[u: 4
+v: 6, u: 3
+v: 0, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",0,7,False,False,42,1,human
+3158.8714447021484,44,collab-activity-2,"[u: 4
+v: 6, u: 3
+v: 0, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",0,7,False,False,human,7,-1,-1,"[u: 4
+v: 6, u: 3
+v: 0, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",-1,-1,False,False,43,1,human
+3177.106724023819,45,collab-activity-2,"[u: 4
+v: 6, u: 3
+v: 0, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",-1,-1,False,False,human,0,1,2,"[u: 4
+v: 6, u: 3
+v: 0, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",1,2,False,False,44,1,robot
+3192.126997232437,46,collab-activity-2,"[u: 4
+v: 6, u: 3
+v: 0, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",1,2,False,False,robot,0,1,2,"[u: 6
+v: 7, u: 4
+v: 5, u: 1
+v: 2, u: 9
+v: 8, u: 8
+v: 2, u: 4
+v: 6, u: 3
+v: 0]",-1,-1,False,False,45,1,robot
+3200.570541858673,47,collab-activity-2,"[u: 6
+v: 7, u: 4
+v: 5, u: 1
+v: 2, u: 9
+v: 8, u: 8
+v: 2, u: 4
+v: 6, u: 3
+v: 0]",-1,-1,False,False,robot,0,2,3,"[u: 1
+v: 2, u: 4
+v: 6, u: 3
+v: 0, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",2,3,False,False,46,1,human
+3202.627389907837,48,collab-activity-2,"[u: 1
+v: 2, u: 4
+v: 6, u: 3
+v: 0, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",2,3,False,False,human,6,-1,-1,"[u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 1
+v: 2, u: 9
+v: 8, u: 8
+v: 2, u: 4
+v: 6, u: 3
+v: 0]",-1,-1,False,False,47,1,human
+3228.5259940624237,49,collab-activity-2,"[u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 1
+v: 2, u: 9
+v: 8, u: 8
+v: 2, u: 4
+v: 6, u: 3
+v: 0]",-1,-1,False,False,human,0,1,4,"[u: 1
+v: 2, u: 4
+v: 6, u: 3
+v: 0, u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",1,4,False,False,48,1,robot
+3244.150668859482,50,collab-activity-2,"[u: 1
+v: 2, u: 4
+v: 6, u: 3
+v: 0, u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",1,4,False,False,robot,0,1,4,"[u: 1
+v: 2, u: 4
+v: 6, u: 1
+v: 4, u: 3
+v: 0, u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",-1,-1,False,False,49,1,robot
+3252.4052658081055,51,collab-activity-2,"[u: 1
+v: 2, u: 4
+v: 6, u: 1
+v: 4, u: 3
+v: 0, u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",-1,-1,False,False,robot,0,4,9,"[u: 1
+v: 2, u: 4
+v: 6, u: 1
+v: 4, u: 3
+v: 0, u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",4,9,False,False,50,1,human
+3255.032389640808,52,collab-activity-2,"[u: 1
+v: 2, u: 4
+v: 6, u: 1
+v: 4, u: 3
+v: 0, u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",4,9,False,False,human,6,-1,-1,"[u: 1
+v: 2, u: 4
+v: 9, u: 4
+v: 6, u: 1
+v: 4, u: 3
+v: 0, u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",-1,-1,False,False,51,1,human
+3274.6489901542664,53,collab-activity-2,"[u: 1
+v: 2, u: 4
+v: 9, u: 4
+v: 6, u: 1
+v: 4, u: 3
+v: 0, u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",-1,-1,False,False,human,0,5,7,"[u: 1
+v: 2, u: 4
+v: 9, u: 4
+v: 6, u: 1
+v: 4, u: 3
+v: 0, u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",5,7,False,False,52,1,robot
+3288.60284614563,54,collab-activity-2,"[u: 1
+v: 2, u: 4
+v: 9, u: 4
+v: 6, u: 1
+v: 4, u: 3
+v: 0, u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 9
+v: 8, u: 8
+v: 2]",5,7,False,False,robot,0,5,7,"[u: 1
+v: 2, u: 4
+v: 9, u: 4
+v: 6, u: 1
+v: 4, u: 3
+v: 0, u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 7, u: 9
+v: 8, u: 8
+v: 2]",-1,-1,False,False,53,1,robot
+3297.821455001831,55,collab-activity-2,"[u: 1
+v: 2, u: 4
+v: 9, u: 4
+v: 6, u: 1
+v: 4, u: 3
+v: 0, u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 7, u: 9
+v: 8, u: 8
+v: 2]",-1,-1,False,False,robot,0,7,0,"[u: 1
+v: 2, u: 4
+v: 9, u: 4
+v: 6, u: 1
+v: 4, u: 3
+v: 0, u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 7, u: 9
+v: 8, u: 8
+v: 2]",7,0,False,False,54,1,human
+3300.5487740039825,56,collab-activity-2,"[u: 1
+v: 2, u: 4
+v: 9, u: 4
+v: 6, u: 1
+v: 4, u: 3
+v: 0, u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 7, u: 9
+v: 8, u: 8
+v: 2]",7,0,False,False,human,6,-1,-1,"[u: 1
+v: 2, u: 4
+v: 9, u: 4
+v: 6, u: 7
+v: 0, u: 1
+v: 4, u: 3
+v: 0, u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 7, u: 9
+v: 8, u: 8
+v: 2]",-1,-1,False,False,55,1,human
+3323.800039768219,57,collab-activity-2,"[u: 1
+v: 2, u: 4
+v: 9, u: 4
+v: 6, u: 7
+v: 0, u: 1
+v: 4, u: 3
+v: 0, u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 7, u: 9
+v: 8, u: 8
+v: 2]",-1,-1,False,False,human,0,9,1,"[u: 1
+v: 2, u: 4
+v: 9, u: 7
+v: 0, u: 4
+v: 6, u: 1
+v: 4, u: 3
+v: 0, u: 2
+v: 3, u: 6
+v: 7, u: 4
+v: 5, u: 5
+v: 7, u: 9
+v: 8, u: 8
+v: 2]",9,1,False,False,56,1,robot
