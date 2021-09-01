@@ -1,0 +1,278 @@
+Time,data
+1623408338.8944557,
+1623408346.925996,
+1623408402.9784062,
+1623408414.8374653,"Hello! My name is Q.T., and here is my friend Utku.
+Let's start when you are ready!"
+1623408439.3593535,"Look at this! This is a map of Switzerland. You see many mountains, and in all of 
+the mountains there is gold! You also see buildings, but they are not important."
+1623408456.5300555,"In this game, our goal is to build a railway network to help the miners go from any mine to any other.
+For this goal, we should try to spend as little money as possible to build these railways."
+1623408473.7670827,"Before we play together, let's see how to interact with the game. You see here
+two gold mines, with a possible connection between them, shown as a gray track."
+1623408488.893847,"Let's connect these two gold mines to each other, so that the miners can travel
+between them. For this, click on one mine, and go to the other without releasing!"
+1623408512.954961,"This railway costs 3 francs! In this game we consider the costs of the tracks:
+every time we build a track, it costs something. We want to spend as little as we can."
+1623408531.867838,"Now, imagine you want to remove the connections and start connecting again from 
+scratch. For this, you can press the eraser button on the right. Try it!"
+1623408548.9366548,"Now, there is no connection between the mountains: miners can't go between them. Let's
+connect again, and when you are done, propose your connection by pressing the submit button!"
+1623408574.7091858,Perfect! You got a hold of it. We can begin!
+1623408584.4925525,"Now, let’s start the game! Go ahead and connect all the gold mines to each other
+so that miners can go from any mine to any other mine by some path!"
+1623408599.28203,"Try to spend as little as possible to build the tracks.
+Please give it a try by yourself, later, we will do it together!"
+1623408686.8672945,"Okay, so, let's try to connect these different gold mines to help the miners go
+between all of them. Try to spend as few francs as you can. Give it a try!"
+1623408754.3167846,"So you are done with the second one. What about these gold mines? Let's connect
+them as cheaply as possible, while miners can travel between them. Go ahead!"
+1623408819.542423,"Okay, let's try for this one now. Connect them while spending as little as possible,
+make sure miners can travel between all of them. Soon, we will do it together. Good luck!"
+1623408881.747789,"So, for this final time, please connect these different mines as
+cheaply as you can, by yourself. Then, we will play together!"
+1623408921.6636322,"Now, we do it together! We need to connect the mines, so that miners can travel from
+any mine to any other. Our goal is to spend as few francs as possible to build tracks!"
+1623408939.2437634,"We have got only four attempts to find the cheapest connection, so let's try our best! When
+you think it is ready to be submitted, press submit: the system will give feedback."
+1623408958.3314555,"Let's start from Basel. Shall we go to Bern? Now, it is your turn. If you think we should
+connect them, agree with me by pressing the check. Otherwise, disagree with the cross!"
+1623408987.6319783,"Great, you agree. Then, what should we pick next? Go ahead and suggest the
+connection we should pick, by clicking on a mine and dragging to another."
+1623409004.635571,"Great, You agree with me!
+Then, its your turn, which mines should we connect?"
+1623409056.371352,Let's start from Basel. Shall we go to Bern?
+1623409084.652952,"Great, you agree. Then, what should we pick next? Go ahead and suggest the
+connection we should pick, by clicking on a mine and dragging to another."
+1623409109.1238792,"Then, you think we should go from Montreux to Zermatt."
+1623409118.4464922,"Okay, I think it is a good one too!"
+1623409126.9860191,"Then, shall we go from Zermatt to Interlaken?"
+1623409139.7828493,"Great to see that you agree.
+Now it is your turn: Make a guess! What do you think I will do now?"
+1623409158.0992916,"I see, you think I would connect Neuchatel to Montreux."
+1623409167.3937056,"Okay, I think it is a good one too!"
+1623409176.1313188,"Then, shall we go from Montreux to Interlaken?"
+1623409188.9867382,"Okay, you disagree, then you don't think it is a good connection.
+Now, make a guess! What do you think I will do now?"
+1623409206.4565086,"I see, you think I would connect Davos to Gallen."
+1623409215.7400842,"Definitely, that's a good choice!"
+1623409224.302223,"Then, shall we go from Gallen to Zurich?"
+1623409235.2091124,"Great to see that you agree.
+Now it is your turn: Make a guess! What do you think I will do now?"
+1623409251.5099144,"I see, you think I would connect Zurich to Luzern."
+1623409261.1766472,"Very well, let's connect them."
+1623409269.315548,Let's pick Luzern to Bern.
+1623409278.4580097,"Okay, you disagree, then you don't think it is a good connection.
+Now, make a guess! What do you think I will do now?"
+1623409300.6438065,"I see, you think I would connect Zermatt to Davos."
+1623409310.1174796,I disagree. Shouldn't we go from Zermatt to Luzern instead?
+1623409321.4235,"Okay, you do not agree. So, what shall we do now?"
+1623409338.053801,"I see, you want to connect Zurich to Davos."
+1623409347.0093586,I don't think it is a good connection! Shouldn't we go from Zurich to Bern instead?
+1623409359.6084435,"Great, You agree with me!
+Then, its your turn, which mines should we connect?"
+1623409373.1330214,"I see, you want to connect Luzern to Davos."
+1623409382.251013,I don't think so! I think we should rather pick Luzern to Bern.
+1623409392.6708608,Great to see that you agree. Now it is your turn: what should we do?
+1623409403.1777127,"Then, you think we should go from Luzern to Zermatt."
+1623409530.1606314,Let's start from Basel. Shall we go to Bern?
+1623409542.9568176,"Great, You agree with me!
+Then, its your turn, which mines should we connect?"
+1623409555.841774,"Then, you think we should go from Luzern to Zermatt."
+1623409562.692953,"I disagree with you! Rather than that, maybe we go from Luzern to Davos?"
+1623409576.4354806,"Great to see that you agree.
+Now it is your turn: Make a guess! What do you think I will do now?"
+1623409593.770741,"Hmm, you believe I would like to go from Neuchatel to Interlaken!"
+1623409601.6190908,I agree!
+1623409608.2829702,"Umm, what about from Interlaken to Bern?"
+1623409615.7609565,"Great to see that you agree.
+Now it is your turn: Make a guess! What do you think I will do now?"
+1623409647.255962,"I see that you think we are done, and you want to submit."
+1623409652.4138715,It seems we can do better!
+1623409656.4684262,Let's try again!
+1623409673.7834926,"Hmm, you would like to go from Interlaken to Zermatt!"
+1623409681.046514,"Definitely, that's a good choice!"
+1623409689.3709276,Let's pick Zermatt to Montreux.
+1623409697.3578665,"Great, you agree. So, what should we do now?"
+1623409708.1322715,"I see, you want to connect Interlaken to Luzern."
+1623409715.4855409,I disagree with you! I think we should go from Interlaken to Neuchatel instead.
+1623409730.3684623,"Oh, you don't think so. Then, what shall we do?"
+1623409746.0553193,"Hmm, you would like to go from Montreux to Neuchatel!"
+1623409753.2545176,"Very well, let's connect them."
+1623409761.8969057,"Umm, what about from Neuchatel to Interlaken?"
+1623409770.0390744,"Great! You agree! Now, you go: which ones should we connect?"
+1623409784.293441,"Hmm, you would like to go from Neuchatel to Basel!"
+1623409791.0008476,"Okay, I think it is a good one too!"
+1623409799.7400064,Let's pick Basel to Bern.
+1623409806.4118342,"Great to see that you agree.
+Now it is your turn: Make a guess! What do you think I will do now?"
+1623409819.8696535,"Hmm, you believe I would like to go from Bern to Zurich!"
+1623409827.083267,"I disagree with you! Instead of that, what about going from Bern to Luzern?"
+1623409838.549822,"Great, You agree with me!
+Then, its your turn, which mines should we connect?"
+1623409849.8801568,"Hmm, you would like to go from Zermatt to Luzern!"
+1623409856.7705853,"Okay, I think it is a good one too!"
+1623409865.9213874,"Then, shall we go from Luzern to Zurich?"
+1623409873.5727382,"Great to see that you agree.
+Now it is your turn: Make a guess! What do you think I will do now?"
+1623409889.234841,"Hmm, you believe I would like to go from Luzern to Davos!"
+1623409896.4872446,"Okay, I think it is a good one too!"
+1623409905.045578,"Umm, what about from Davos to Gallen?"
+1623409912.6292303,"Great, you agree. So, what should we do now?"
+1623409923.643551,"Hmm, you would like to go from Davos to Zurich!"
+1623409930.5035846,"I disagree with you! Rather than that, maybe we go from Davos to Zermatt?"
+1623409942.0383656,"Great! You agree! Now, you go: which ones should we connect?"
+1623409954.2759323,"I see, you want to connect Bern to Zurich."
+1623409960.9414678,I agree!
+1623409967.4912949,"Umm, what about from Zurich to Gallen?"
+1623409974.5954583,"Great, You agree with me!
+Then, its your turn, which mines should we connect?"
+1623409989.3382502,"Okay, then you think this is the cheapest possible, and you want to submit."
+1623409996.2903395,It seems we can do better!
+1623410000.1260488,Let's try again!
+1623410008.4912882,"I see, you want to connect Montreux to Zermatt."
+1623410015.7154317,"Okay, I think it is a good one too!"
+1623410024.4343407,"Then, shall we go from Zermatt to Interlaken?"
+1623410032.236523,Great to see that you agree. Now it is your turn: what should we do?
+1623410046.480202,"Hmm, you would like to go from Montreux to Neuchatel!"
+1623410053.4059343,"Very well, let's connect them."
+1623410061.7111924,"Then, shall we go from Neuchatel to Interlaken?"
+1623410069.2381976,"Okay, you don't think so. What would you like to do, then?"
+1623410080.6854267,"I see, you want to connect Neuchatel to Basel."
+1623410087.3718405,"If you insist, okay."
+1623410095.2878683,"Umm, what about from Basel to Bern?"
+1623410102.9021628,"Great! You agree! Now, you go: which ones should we connect?"
+1623410115.9656026,"Hmm, you would like to go from Zurich to Bern!"
+1623410122.6317987,I disagree with you! I think we should rather pick Zurich to Luzern.
+1623410133.0327003,Great to see that you agree. Now it is your turn: what should we do?
+1623410144.661621,"Then, you think we should go from Luzern to Davos."
+1623410151.7145865,"If you insist, okay."
+1623410159.80732,Let's pick Davos to Gallen.
+1623410166.579343,"Great to see that you agree.
+Now it is your turn: Make a guess! What do you think I will do now?"
+1623410180.4056838,"Hmm, you believe I would like to go from Bern to Luzern!"
+1623410187.9064355,I agree!
+1623410194.5016503,"Umm, what about from Luzern to Zermatt?"
+1623410203.7463286,"Okay, you disagree, then you don't think it is a good connection.
+Now, make a guess! What do you think I will do now?"
+1623410219.4522073,"Okay, then you think this is the cheapest possible, and you want to submit."
+1623410226.2648165,It seems we can do better!
+1623410230.324595,Let's try again!
+1623410242.329766,"I see, you want to connect Montreux to Neuchatel."
+1623410249.3792307,I don't think it is a good connection! Shouldn't we go from Montreux to Zermatt instead?
+1623410261.1397846,"Great! You agree! Now, you go: which ones should we connect?"
+1623410274.619677,"Hmm, you would like to go from Zermatt to Interlaken!"
+1623410281.5089996,"Okay, I think it is a good one too!"
+1623410290.4696941,"Then, shall we go from Interlaken to Neuchatel?"
+1623410298.7157342,"Great, you agree. So, what should we do now?"
+1623410311.4109771,"I see, you want to connect Zermatt to Luzern."
+1623410318.6029494,"Definitely, that's a good choice!"
+1623410327.1597736,"Umm, what about from Luzern to Zurich?"
+1623410334.661518,"Great, you agree. So, what should we do now?"
+1623410347.8646908,"I see, you want to connect Zurich to Gallen."
+1623410354.6396313,I don't think it is a good connection! Shouldn't we go from Zurich to Bern instead?
+1623410366.2566862,Great to see that you agree. Now it is your turn: what should we do?
+1623410377.859977,"Then, you think we should go from Basel to Bern."
+1623410384.4253826,I agree with you!
+1623410391.4517503,"Umm, what about from Bern to Luzern?"
+1623410399.1593883,"Great, You agree with me!
+Then, its your turn, which mines should we connect?"
+1623410409.9950802,"Hmm, you would like to go from Neuchatel to Montreux!"
+1623410416.919426,"Okay, I think it is a good one too!"
+1623410425.8238204,"Then, shall we go from Montreux to Interlaken?"
+1623410434.0702307,"Great, You agree with me!
+Then, its your turn, which mines should we connect?"
+1623410446.0777729,"Then, you think we should go from Zermatt to Davos."
+1623410453.1714408,"Definitely, that's a good choice!"
+1623410461.7177043,"Then, shall we go from Davos to Gallen?"
+1623410469.2197766,"Great, You agree with me!
+Then, its your turn, which mines should we connect?"
+1623410482.2872462,"Then, you think we should go from Zurich to Gallen."
+1623410489.1847003,"Okay, I think it is a good one too!"
+1623410497.6673548,The system says we can do better!
+1623410498.659976,Let's submit! The system will check if our connection is the cheapest possible.
+1623410502.038135,Let's try again!
+1623410511.1089623,"Then, shall we go from Gallen to Davos?"
+1623410534.4065702,"Now we play again, this time for different connections!
+Our goal is the same: connecting them while spending as little as we can."
+1623410547.5510736,Let me start.
+1623410552.1189578,Let's start from Zermatt. Shall we go to Luzern?
+1623410565.694701,"Okay, you do not agree. So, what shall we do now?"
+1623410576.056235,"Then, you think we should go from Montreux to Neuchatel."
+1623410583.6310656,I agree!
+1623410590.2969294,"Then, shall we go from Neuchatel to Bern?"
+1623410599.6852016,Great to see that you agree. Now it is your turn: what should we do?
+1623410611.1029503,"I see, you want to connect Bern to Interlaken."
+1623410618.2665286,"Very well, let's connect them."
+1623410626.7399585,"Then, shall we go from Interlaken to Luzern?"
+1623410634.7522476,"Great to see that you agree.
+Now it is your turn: Make a guess! What do you think I will do now?"
+1623410648.8640945,"I see, you think I would connect Basel to Zurich."
+1623410655.9029388,"Very well, let's connect them."
+1623410664.2168639,Let's pick Zurich to Davos.
+1623410670.9310653,"Great to see that you agree.
+Now it is your turn: Make a guess! What do you think I will do now?"
+1623410686.497587,"Hmm, you believe I would like to go from Gallen to Davos!"
+1623410693.8865163,Okay if you really want.
+1623410701.4941287,"Then, shall we go from Davos to Zermatt?"
+1623410710.3059056,"Great! You agree! Now, you go: which ones should we connect?"
+1623410724.586514,"I see, you want to connect Gallen to Basel."
+1623410731.5848832,I agree with you!
+1623410738.7789745,"Then, shall we go from Basel to Bern?"
+1623410748.0785253,"Great, you agree. So, what should we do now?"
+1623410758.328489,"I see, you want to connect Luzern to Zermatt."
+1623410765.3659117,Okay if you really want.
+1623410773.1833608,"Then, shall we go from Zermatt to Interlaken?"
+1623410783.1924443,"I see you do not agree. Then, what is best to do now?"
+1623410793.9845667,"Okay, then you think this is the cheapest possible, and you want to submit."
+1623410800.94075,"Oh, the system checked our connection: it seems we can spend less!"
+1623410808.4805124,Let's try again!
+1623410815.3116555,"Then, you think we should go from Basel to Gallen."
+1623410822.0114324,I don't think so! I think we should rather pick Basel to Zurich.
+1623410832.9734876,Great to see that you agree. Now it is your turn: what should we do?
+1623410843.8537097,"Then, you think we should go from Gallen to Davos."
+1623410850.7146568,"If you insist, okay."
+1623410858.7687747,Let's pick Davos to Zurich.
+1623410865.875388,"I see you do not agree. Then, what is best to do now?"
+1623410881.0598216,"Then, you think we should go from Basel to Gallen."
+1623410887.7441037,"Okay, I think it is a good one too!"
+1623410896.8825855,Let's pick Gallen to Zurich.
+1623410903.7280788,"Okay, you do not agree. So, what shall we do now?"
+1623410918.595858,"Then, you think we should go from Basel to Bern."
+1623410925.0420806,I agree!
+1623410931.6821616,"Then, shall we go from Bern to Interlaken?"
+1623410939.3014207,Great to see that you agree. Now it is your turn: what should we do?
+1623410950.64566,"I see, you want to connect Neuchatel to Montreux."
+1623410958.002381,"Very well, let's connect them."
+1623410966.7307134,"Then, shall we go from Montreux to Interlaken?"
+1623410977.646844,"Okay, you do not agree. So, what shall we do now?"
+1623410989.7152667,"Hmm, you would like to go from Neuchatel to Bern!"
+1623410996.5023046,I agree!
+1623411003.3879557,"Then, shall we go from Bern to Luzern?"
+1623411011.7145572,"Great, you agree. So, what should we do now?"
+1623411022.1156502,"I see, you want to connect Luzern to Zermatt."
+1623411029.3006642,"Very well, let's connect them."
+1623411037.5909786,"Then, shall we go from Zermatt to Davos?"
+1623411045.5387256,"Okay, you don't think so. What would you like to do, then?"
+1623411056.1371133,"I see that you think we are done, and you want to submit."
+1623411061.2597053,"Perfect! Congratulations!
+We connected them while spending as little as possible!"
+1623411074.3339434,"It was a great experience for me to work with you! Now, please connect all of
+the mines to each other by some path, and spend as little as possible, by yourself."
+1623411181.9194198,
+1623411182.1558268,
+1623411202.5650897,
+1623411217.0492363,"It was a great experience for me to work with you! Now, please connect all of
+the mines to each other by some path, and spend as little as possible, by yourself."
+1623411256.641369,"So, let's try this one. Make sure miners can go from any mine to any other, through
+the tracks. And, try to spend as few francs as you can!"
+1623411297.8246963,"Okay, now, another one. Miners should be able to go between all
+the mines. And, please try to spend as few francs as you can!"
+1623411336.2519581,"Now, what about these gold mines? Be sure that miners can go from any mine
+to any other. Also, try to spend as little as possible. Give it a try!"
+1623411369.151946,"So, I have a final one for you. Miners need to be able to go between all the mines:
+try to find the cheapest such connection. Let me see how you do it!"
+1623411403.9208426,"Its time to say goodbye....
+I loved playing with you, I hope you enjoyed it too!  Goodbye!"
+1623411414.8872898,"Oh, before you go, could you please answer some questions
+that my friend Utku would like to ask you? Thank you very much!"
