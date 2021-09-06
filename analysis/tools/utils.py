@@ -5,7 +5,7 @@ import matplotlib.ticker as mtick
 import seaborn as sns
 
 
-def pick_colors(participants):
+def pick_colors(participants=range(1,10)):
     # palette = sns.color_palette('colorblind')
     palette = sns.color_palette('bright')
     color_list = list(palette)
