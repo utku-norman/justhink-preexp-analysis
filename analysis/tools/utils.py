@@ -1,11 +1,13 @@
 import math
 
+import networkx as nx
+
 import matplotlib.pyplot as plt
 import matplotlib.ticker as mtick
 import seaborn as sns
 
 
-def pick_colors(participants=range(1,10)):
+def pick_colors(participants=range(1, 10)):
     # palette = sns.color_palette('colorblind')
     palette = sns.color_palette('bright')
     color_list = list(palette)
@@ -19,16 +21,16 @@ def pick_colors(participants=range(1,10)):
     colors[2], colors[1] = colors[1], colors[2]
     colors[3], colors[6] = colors[6], colors[3]
     colors[7], colors[1] = colors[1], colors[7]
-    
+
     colors[6], colors[1] = colors[1], colors[6]
 
     return colors
-    
-    
+
+
 def plot_comparison(
         comparison_df, getter,
         participants=None, fig=None, ax=None, offset=0.01,
-        zero_offset=0, xvalues=['1', '2'],  title='', ylabel='', 
+        zero_offset=0, xvalues=['1', '2'],  title='', ylabel='',
         ylim=(-0.08, 1.05), ygrid=False, yticks=False,
         save=True, export_file=None, verbose=False):
     """Graph the pre-test versus post-test scores."""
@@ -68,8 +70,8 @@ def plot_comparison(
         if math.isnan(position[0]) or math.isnan(position[1]):
             marker, size = 'X', 14
         else:
-            marker, size = 'o', 8 # 'D'
-            
+            marker, size = 'o', 8  # 'D'
+
         # Plot a line segment for the participant.
         sns.lineplot(
             x=xvalues, y=position, marker=marker, ms=size,
@@ -98,3 +100,27 @@ def plot_comparison(
     if export_file is not None and save:
         plt.savefig(export_file, bbox_inches='tight')
         print(export_file)
+
+
+def draw_network(G, labels=None, ax=None):
+    x_values = nx.get_node_attributes(G, 'x')
+    y_values = nx.get_node_attributes(G, 'y')
+
+    pos = {u: (x_values[u], y_values[u]) for u in G.nodes()}
+
+    if ax is None:
+        fig, ax = plt.subplots()
+
+    if labels is None:
+        labels = {u: '{}-{}'.format(u, d['text'].split()[-1])
+                  for u, d in G.nodes(data=True)}
+
+    nx.draw(
+        G, pos=pos, with_labels=True, labels=labels,
+        nodelist=[u for u in G.nodes()], ax=ax)
+
+    labels = nx.get_edge_attributes(G, 'cost')
+    nx.draw_networkx_edge_labels(G, pos, edge_labels=labels, ax=ax)
+    ax.margins(0.1)
+
+    return ax
