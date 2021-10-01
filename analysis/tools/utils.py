@@ -78,7 +78,7 @@ def plot_comparison(
             ls='--', color=colors[participant], label=str(participant),
             legend=False, ax=ax)
 
-    ax.set_ylabel(ylabel)
+    ax.set_ylabel(ylabel, labelpad=0)
     ax.yaxis.set_major_formatter(mtick.PercentFormatter(1.0))
     if ylim:
         ax.set_ylim(ylim[0], ylim[1])
@@ -88,14 +88,15 @@ def plot_comparison(
 
     ax.set_title(title)
 
-    leg = plt.legend(sorted(participants), loc='upper left', frameon=True)
-    # Get the bounding box of the original legend.
-    bb = leg.get_bbox_to_anchor().inverse_transformed(ax.transAxes)
-    # Change to location of the legend.
-    x_offset = 1.05
-    bb.x0 = bb.x0 + x_offset
-    bb.x1 = bb.x1 + x_offset
-    leg.set_bbox_to_anchor(bb, transform=ax.transAxes)
+    leg = plt.legend(sorted(participants), loc='upper right', frameon=True, ncol=2)
+    # leg = plt.legend(sorted(participants), loc='upper left', frameon=True)
+    # # Get the bounding box of the original legend.
+    # bb = leg.get_bbox_to_anchor().inverse_transformed(ax.transAxes)
+    # # Change to location of the legend.
+    # x_offset = 1.05
+    # bb.x0 = bb.x0 + x_offset
+    # bb.x1 = bb.x1 + x_offset
+    # leg.set_bbox_to_anchor(bb, transform=ax.transAxes)
 
     if export_file is not None and save:
         plt.savefig(export_file, bbox_inches='tight')
