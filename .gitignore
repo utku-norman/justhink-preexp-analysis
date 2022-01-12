@@ -9,6 +9,8 @@ __pycache__/
 # Workspace files are user-specific
 *.sublime-workspace
 
+# Temporary pip files
+analysis/src
 
 # Distribution / packaging
 .Python
