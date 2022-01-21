@@ -19,7 +19,7 @@ Classes under the [tools/effsize](tools/effsize) package were taken from project
 **Author: Alexandra Chin<br />**
 **Maintainers: Alexandra Chin, ac5@wellesley.edu and Utku Norman@[CHILI Lab, EPFL](https://www.epfl.ch/labs/chili/), utku.norman@epfl.ch**
 
-The [justhink_world] package has been tested under Python 3.8 on Ubuntu 20.04.
+The package has been tested under Python 3.8 on Ubuntu 20.04.
 This is research code, expect that it changes often and any fitness for a particular purpose is disclaimed.
 
 
