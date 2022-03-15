@@ -61,7 +61,20 @@ python3 -m venv .venv --prompt JUSThink-preexp-env
 source .venv/bin/activate
 ```
 
-4) Install the dependencies:
+3) Install the dependency [justhink_world] Python package inside this virtual environment:
+```
+# Get the source code.
+git clone https://github.com/utku-norman/justhink_world.git .venv/justhink_world
+
+# Activate the virtual environment.
+source .venv/bin/activate
+
+# Install the package.
+pip install -e .venv/justhink_world
+```
+
+
+4) Install the remaining dependencies:
 ```
 pip install -r requirements.txt
 ```
