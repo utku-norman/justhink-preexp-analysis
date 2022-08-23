@@ -85,8 +85,12 @@ def plot_comparison(
 
     # Turn on/off grid on the left Axis.
     ax.grid(ygrid)
+    ax.yaxis.grid(alpha=0.7)
+    ax.yaxis.grid(which='minor', alpha=0.3)
 
     ax.set_title(title)
+    
+    sns.despine(top=True, right=True, left=True, bottom=True)
 
     leg = plt.legend(sorted(participants), loc='upper right', frameon=True, ncol=2)
     # leg = plt.legend(sorted(participants), loc='upper left', frameon=True)
