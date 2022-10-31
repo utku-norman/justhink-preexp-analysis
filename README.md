@@ -18,12 +18,12 @@ If you use this work in an academic context, please cite this publication:
 
         @inproceedings{norman_efficacy_2022,
             title       = {Efficacy of a 'misconceiving' robot to improve computational thinking in a collaborative problem solving activity: a pilot study},
-            booktitle   = {2022 31st {IEEE} International Conference on Robot \& Human Interactive Communication ({RO}-{MAN})},
+            pages       = {1413--1420},
+            booktitle   = {2022 31st {IEEE} International Conference on Robot and Human Interactive Communication ({RO}-{MAN})},
             author      = {Norman, Utku and Chin, Alexandra and Bruno, Barbara and Dillenbourg, Pierre},
             month       = aug,
             year        = {2022},
-            url         = {https://infoscience.epfl.ch/record/294825},
-            urldate     = {2022-07-01},
+            doi         = {10.1109/RO-MAN53752.2022.9900775},
         }
 
 
@@ -170,11 +170,11 @@ This is research code, expect that it changes often and any fitness for a partic
 
 ## References <a name="references"></a>
 
-[1] U. Norman, A. Chin, B. Bruno, and P. Dillenbourg, “Efficacy of a ‘misconceiving’ robot to improve computational thinking in a collaborative problem solving activity: a pilot study,” Aug. 2022. 2022 31st IEEE International Conference on Robot & Human Interactive Communication (RO-MAN). Accessed: Jul. 1, 2022. [Online]. Available: [https://infoscience.epfl.ch/record/294825](https://infoscience.epfl.ch/record/294825)
+[1] U. Norman, A. Chin, B. Bruno, and P. Dillenbourg, “Efficacy of a ‘misconceiving’ robot to improve computational thinking in a collaborative problem solving activity: a pilot study,” in 2022 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), Aug. 2022, pp. 1413–1420. doi: [10.1109/RO-MAN53752.2022.9900775](https://doi.org/10.1109/RO-MAN53752.2022.9900775)
 
-[2] J. Nasir\*, U. Norman\*, B. Bruno, and P. Dillenbourg, "When Positive Perception of the Robot Has No Effect on Learning," in 2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), Aug. 2020, pp. 313–320. \*Contributed equally to this work. doi: [10.1109/RO-MAN47096.2020.9223343](https://doi.org/10.1109/RO-MAN47096.2020.9223343).
+[2] J. Nasir\*, U. Norman\*, B. Bruno, and P. Dillenbourg, "When positive perception of the robot has no effect on learning," in 2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), Aug. 2020, pp. 313–320. \*Contributed equally to this work. doi: [10.1109/RO-MAN47096.2020.9223343](https://doi.org/10.1109/RO-MAN47096.2020.9223343)
 
-[3] J. Nasir, U. Norman, B. Bruno, and P. Dillenbourg, "You Tell, I Do, and We Swap until we Connect All the Gold Mines!," ERCIM News, vol. 2020, no. 120, 2020, [Online]. Available: [https://ercim-news.ercim.eu/en120/special/you-tell-i-do-and-we-swap-until-we-connect-all-the-gold-mines](https://ercim-news.ercim.eu/en120/special/you-tell-i-do-and-we-swap-until-we-connect-all-the-gold-mines).
+[3] J. Nasir, U. Norman, B. Bruno, and P. Dillenbourg, "You tell, i do, and we swap until we connect all the gold mines!," ERCIM News, vol. 2020, no. 120, 2020, [Online]. Available: [https://ercim-news.ercim.eu/en120/special/you-tell-i-do-and-we-swap-until-we-connect-all-the-gold-mines](https://ercim-news.ercim.eu/en120/special/you-tell-i-do-and-we-swap-until-we-connect-all-the-gold-mines)
 
 [ROS]: http://www.ros.org
 [justhink_world]: https://github.com/utku-norman/justhink_world
